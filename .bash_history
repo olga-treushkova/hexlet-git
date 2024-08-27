@@ -1279,3 +1279,183 @@ npm install --save-dev eslint@8.57.0 @eslint/create-config@1.0.0
 npx eslint --init
 npm install --save-dev eslint@8.57.0 @eslint/create-config@1.0.0
 npx eslint --init
+npm install --save-dev eslint@8.57.0 @eslint/create-config@1.0.0
+npx eslint --init
+ls -a
+ls eslint.config.js
+ls -a
+cat eslint.config.js
+npx eslint --fix .
+sudo npm install -g eslint
+npx eslint --init
+npx eslint .
+ls -a
+nano eslint.config.js
+git status
+npx eslint --init
+nano eslint.config.js
+npx eslint .
+cd frontend-project-44
+ls -a
+nano Makefie
+nano Makefile
+make init
+nano Makefile
+git status
+git add -A
+git status
+git commit -m 'eslint'
+git status
+make init
+cd
+make init
+nano eslint.config.js
+npm uninstall eslint --save-dev
+npm uninstall eslint-config-airbnb --save-dev
+git status
+git rm $(git ls-files --deleted) $(git ls-files --modified)
+git status
+git rm (git ls-files --deleted)
+git rm $(git ls-files --deleted) $(git ls-files --modified) $(git ls-files --others  exclude-standard)
+git rm
+git rm deleted 
+nano eslint.config.js
+git status
+git add -A
+git status
+git commit -m 'commit files'
+git status
+make init
+brain-games
+eslint -v
+nano package.json
+npx eslint .
+npx install-peerdeps --dev eslint-config-airbnb-base
+ls -a
+nano eslint.config.js
+npx eslint .
+npx eslint . --fix
+npx eslint --fix
+git status
+git add -A
+git commit -m 'eslint settings'
+git status
+git add
+git add .
+git status
+git add -A
+git status
+git commit -m 
+git commit -m 'modified content'
+git status
+npx eslint .
+npx eslint --fix
+npx eslint .
+npx eslint . --fix
+cd frontend-project-44
+ls -a
+cd src
+ls -a
+nano cli.js
+cd ..
+nano Makefile
+make init
+nano Makefile
+eslint -v
+nano package.json
+nano eslint
+make init
+nano Makefile
+git status
+git add Makefile
+git commit -m 'Makefile'
+git status
+make init
+cd 
+ls -a
+ls 
+ls eslint.config.js
+git status
+git add -A
+git commit -m 'commits of modified content'
+git status
+git add -A
+git status
+git commit -a
+git commit -m '.asdf and .nvm'
+git status
+git add -A
+git status
+ls -a
+make init
+cd frontend-project-44
+ls -a
+make init
+nano Makefile
+make init:
+npx elsint .
+npx eslint . --fix
+ls brain-games.js
+nano brain-games.js
+nano cli.js
+ls -a
+cd src
+nano cli.js
+npx eslint . 
+cd ..
+npx eslint /
+npx eslint . 
+npx eslint . --fix
+cd
+npx eslint .
+npx eslint . --fix
+git status
+git add -A
+git commit -m 'modified'
+npx eslint .
+npx eslint . --fix
+ls -a
+nano eslint.config.js
+git add eslint.config.js
+git status
+git commit -m 'eslint.config.js'
+npx eslint .
+nano eslint.config.js
+git add eslint.config.js
+git commit -m 'eslint.config.js'
+npx eslint .
+npx eslint . --fix
+git status
+git add -A
+git commit -m 'zabytoe dobro'
+git status
+npx eslint .
+npx eslint . --fix
+npx eslint --fix .
+nano eslint.config.js
+cd frontend-project-44
+nano eslint.config.js
+ls -a
+brain-games
+cd
+npx eslint --fix .
+eslint --cache --cache-location /tmp/eslintcache .
+npx eslint .
+git status
+git add -A
+git commit -m 'modified'
+git status
+git restore -A
+nano eslint.config.jsgit clean -n
+git clean -n
+git status
+git clean -f
+git status
+git add -A
+git status
+git add -a
+git status
+npx eslint --fix .
+ls -a
+npm uninstall -g eslint
+rm -f .eslint.config.js
