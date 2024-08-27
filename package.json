@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "@hexlet/code.",
+  "description": "Мой первый проект на Хекслете",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olga-treushkova/hexlet-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olga-treushkova/hexlet-git/issues"
+  },
+  "homepage": "https://github.com/olga-treushkova/hexlet-git#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^1.0.0",
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.9.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.9.0",
+    "eslint-plugin-react": "^7.35.0",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "globals": "^15.9.0"
+  }
+}
