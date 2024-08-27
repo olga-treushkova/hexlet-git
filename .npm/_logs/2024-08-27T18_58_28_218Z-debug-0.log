@@ -1,0 +1,43 @@
+0 verbose cli /home/olga/.nvm/versions/node/v22.7.0/bin/node /home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.8.2
+2 info using node@v22.7.0
+3 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/olga/frontend-project-44/.npmrc
+5 silly config load:file:/home/olga/.npmrc
+6 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/etc/npmrc
+7 verbose title npm exec elsint .
+8 verbose argv "exec" "--" "elsint" "."
+9 verbose logfile logs-max:10 dir:/home/olga/.npm/_logs/2024-08-27T18_58_28_218Z-
+10 verbose logfile /home/olga/.npm/_logs/2024-08-27T18_58_28_218Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:2081947648 maxSize:520486912 maxEntrySize:260243456
+14 http fetch GET 404 https://registry.npmjs.org/elsint 919ms (cache skip)
+15 http fetch GET 404 https://registry.npmjs.org/elsint 605ms (cache skip)
+16 verbose stack HttpErrorGeneral: 404 Not Found - GET https://registry.npmjs.org/elsint - Not found
+16 verbose stack     at /home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/node_modules/npm-registry-fetch/lib/check-response.js:95:15
+16 verbose stack     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+16 verbose stack     at async RegistryFetcher.packument (/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/node_modules/pacote/lib/registry.js:90:19)
+16 verbose stack     at async RegistryFetcher.manifest (/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/node_modules/pacote/lib/registry.js:128:23)
+16 verbose stack     at async getManifest (/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/node_modules/libnpmexec/lib/index.js:27:22)
+16 verbose stack     at async missingFromTree (/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/node_modules/libnpmexec/lib/index.js:60:22)
+16 verbose stack     at async /home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/node_modules/libnpmexec/lib/index.js:182:32
+16 verbose stack     at async Promise.all (index 0)
+16 verbose stack     at async exec (/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/node_modules/libnpmexec/lib/index.js:180:3)
+16 verbose stack     at async Npm.exec (/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/lib/npm.js:207:9)
+17 verbose statusCode 404
+18 verbose pkgid elsint@*
+19 error code E404
+20 error 404 Not Found - GET https://registry.npmjs.org/elsint - Not found
+21 error 404
+22 error 404  'elsint@*' is not in this registry.
+23 error 404
+24 error 404 Note that you can also install from a
+25 error 404 tarball, folder, http url, or git url.
+26 verbose cwd /home/olga/frontend-project-44
+27 verbose os Linux 5.15.153.1-microsoft-standard-WSL2
+28 verbose node v22.7.0
+29 verbose npm  v10.8.2
+30 verbose exit 1
+31 verbose code 1
+32 error A complete log of this run can be found in: /home/olga/.npm/_logs/2024-08-27T18_58_28_218Z-debug-0.log

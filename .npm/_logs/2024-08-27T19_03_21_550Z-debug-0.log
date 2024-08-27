@@ -1,0 +1,19 @@
+0 verbose cli /home/olga/.nvm/versions/node/v22.7.0/bin/node /home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.8.2
+2 info using node@v22.7.0
+3 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/olga/frontend-project-44/.npmrc
+5 silly config load:file:/home/olga/.npmrc
+6 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/etc/npmrc
+7 verbose title npm exec eslint .
+8 verbose argv "exec" "--" "eslint" "."
+9 verbose logfile logs-max:10 dir:/home/olga/.npm/_logs/2024-08-27T19_03_21_550Z-
+10 verbose logfile /home/olga/.npm/_logs/2024-08-27T19_03_21_550Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose cwd /home/olga/frontend-project-44/src
+14 verbose os Linux 5.15.153.1-microsoft-standard-WSL2
+15 verbose node v22.7.0
+16 verbose npm  v10.8.2
+17 verbose exit 0
+18 info ok
