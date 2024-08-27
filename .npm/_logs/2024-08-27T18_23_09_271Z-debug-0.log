@@ -1,0 +1,256 @@
+0 verbose cli /home/olga/.nvm/versions/node/v22.7.0/bin/node /home/olga/.nvm/versions/node/v22.7.0/bin/npm
+1 info using npm@10.8.2
+2 info using node@v22.7.0
+3 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/olga/.npmrc
+5 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/etc/npmrc
+6 verbose title npm info eslint-config-airbnb-base@latest
+7 verbose argv "info" "eslint-config-airbnb-base@latest" "--json"
+8 verbose logfile logs-max:10 dir:/home/olga/.npm/_logs/2024-08-27T18_23_09_271Z-
+9 verbose logfile /home/olga/.npm/_logs/2024-08-27T18_23_09_271Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/eslint-config-airbnb-base 286ms (cache miss)
+13 silly view {
+13 silly view   '15.0.0': {
+13 silly view     _id: 'eslint-config-airbnb-base@15.0.0',
+13 silly view     _rev: '128-33024c3d1cb09b43f6b319564fe82c42',
+13 silly view     name: 'eslint-config-airbnb-base',
+13 silly view     description: "Airbnb's base JS ESLint config, following our styleguide",
+13 silly view     'dist-tags': { latest: '15.0.0' },
+13 silly view     versions: [
+13 silly view       '1.0.0',  '1.0.1',  '1.0.2',  '1.0.3',
+13 silly view       '1.0.4',  '2.0.0',  '3.0.0',  '3.0.1',
+13 silly view       '4.0.0',  '4.0.2',  '5.0.0',  '5.0.1',
+13 silly view       '5.0.2',  '5.0.3',  '6.0.0',  '7.0.0',
+13 silly view       '7.0.1',  '7.1.0',  '7.2.0',  '8.0.0',
+13 silly view       '9.0.0',  '10.0.0', '10.0.1', '11.0.0',
+13 silly view       '11.0.1', '11.1.0', '11.1.1', '11.1.2',
+13 silly view       '11.1.3', '11.2.0', '11.3.0', '11.3.1',
+13 silly view       '11.3.2', '12.0.0', '12.0.1', '12.0.2',
+13 silly view       '12.1.0', '13.0.0', '13.1.0', '13.2.0',
+13 silly view       '14.0.0', '14.1.0', '14.2.0', '14.2.1',
+13 silly view       '15.0.0'
+13 silly view     ],
+13 silly view     time: {
+13 silly view       created: '2016-04-19T22:09:16.584Z',
+13 silly view       modified: '2024-06-18T18:32:07.667Z',
+13 silly view       '1.0.0': '2016-04-19T22:09:16.584Z',
+13 silly view       '1.0.1': '2016-04-20T05:21:52.710Z',
+13 silly view       '1.0.2': '2016-04-20T18:20:29.390Z',
+13 silly view       '1.0.3': '2016-04-22T06:42:49.427Z',
+13 silly view       '1.0.4': '2016-04-26T09:11:59.028Z',
+13 silly view       '2.0.0': '2016-04-30T07:04:58.105Z',
+13 silly view       '3.0.0': '2016-05-07T18:05:14.373Z',
+13 silly view       '3.0.1': '2016-05-08T21:58:17.973Z',
+13 silly view       '4.0.0': '2016-07-05T20:03:18.816Z',
+13 silly view       '4.0.1': '2016-07-15T04:37:48.492Z',
+13 silly view       '4.0.2': '2016-07-15T05:38:44.408Z',
+13 silly view       '5.0.0': '2016-07-24T17:30:24.488Z',
+13 silly view       '5.0.1': '2016-07-30T00:36:08.677Z',
+13 silly view       '5.0.2': '2016-08-12T22:46:55.690Z',
+13 silly view       '5.0.3': '2016-08-22T06:31:44.326Z',
+13 silly view       '6.0.0': '2016-09-06T18:06:54.806Z',
+13 silly view       '7.0.0': '2016-09-06T22:35:06.297Z',
+13 silly view       '7.0.1': '2016-09-10T21:45:43.232Z',
+13 silly view       '7.1.0': '2016-09-11T21:12:39.717Z',
+13 silly view       '7.2.0': '2016-09-24T05:34:35.954Z',
+13 silly view       '8.0.0': '2016-09-24T21:30:00.733Z',
+13 silly view       '9.0.0': '2016-10-17T06:57:25.735Z',
+13 silly view       '10.0.0': '2016-11-06T23:36:50.358Z',
+13 silly view       '10.0.1': '2016-11-07T08:55:37.331Z',
+13 silly view       '11.0.0': '2016-12-12T07:15:16.213Z',
+13 silly view       '11.0.1': '2017-01-08T23:04:58.449Z',
+13 silly view       '11.1.0': '2017-02-05T18:40:43.223Z',
+13 silly view       '11.1.1': '2017-03-03T22:12:25.004Z',
+13 silly view       '11.1.2': '2017-03-26T02:20:17.452Z',
+13 silly view       '11.1.3': '2017-04-03T23:06:17.105Z',
+13 silly view       '11.2.0': '2017-05-14T23:57:51.117Z',
+13 silly view       '11.3.0': '2017-07-24T04:51:09.387Z',
+13 silly view       '11.3.1': '2017-07-24T19:14:32.457Z',
+13 silly view       '11.3.2': '2017-08-22T23:00:14.161Z',
+13 silly view       '12.0.0': '2017-09-02T17:07:00.011Z',
+13 silly view       '12.0.1': '2017-09-27T20:53:05.378Z',
+13 silly view       '12.0.2': '2017-10-05T07:22:17.877Z',
+13 silly view       '12.1.0': '2017-10-16T18:57:50.827Z',
+13 silly view       '13.0.0': '2018-06-21T22:16:05.190Z',
+13 silly view       '13.1.0': '2018-08-13T08:03:49.239Z',
+13 silly view       '13.2.0': '2019-07-01T22:25:53.403Z',
+13 silly view       '14.0.0': '2019-08-10T06:46:10.727Z',
+13 silly view       '14.1.0': '2020-03-13T05:45:16.723Z',
+13 silly view       '14.2.0': '2020-06-11T06:39:44.801Z',
+13 silly view       '14.2.1': '2020-11-06T22:07:00.065Z',
+13 silly view       '15.0.0': '2021-11-09T07:20:04.037Z'
+13 silly view     },
+13 silly view     maintainers: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+13 silly view     author: { url: 'https://twitter.com/@jitl', name: 'Jake Teton-Landis' },
+13 silly view     repository: {
+13 silly view       url: 'git+https://github.com/airbnb/javascript.git',
+13 silly view       type: 'git'
+13 silly view     },
+13 silly view     keywords: [
+13 silly view       'eslint',     'eslintconfig',
+13 silly view       'config',     'airbnb',
+13 silly view       'javascript', 'styleguide',
+13 silly view       'es2015',     'es2016',
+13 silly view       'es2017',     'es2018'
+13 silly view     ],
+13 silly view     license: 'MIT',
+13 silly view     homepage: 'https://github.com/airbnb/javascript',
+13 silly view     bugs: { url: 'https://github.com/airbnb/javascript/issues' },
+13 silly view     readmeFilename: 'README.md',
+13 silly view     users: {
+13 silly view       'j.su': true,
+13 silly view       wayn: true,
+13 silly view       irnnr: true,
+13 silly view       ugarz: true,
+13 silly view       aramix: true,
+13 silly view       cybibo: true,
+13 silly view       daizch: true,
+13 silly view       hendry: true,
+13 silly view       'joe.li': true,
+13 silly view       jondar: true,
+13 silly view       'king.v': true,
+13 silly view       koslun: true,
+13 silly view       raciat: true,
+13 silly view       tedyhy: true,
+13 silly view       yeming: true,
+13 silly view       arielfr: true,
+13 silly view       dyakovk: true,
+13 silly view       ezodude: true,
+13 silly view       italodr: true,
+13 silly view       pixel67: true,
+13 silly view       yakumat: true,
+13 silly view       abhisekp: true,
+13 silly view       caicorre: true,
+13 silly view       daskepon: true,
+13 silly view       djamseed: true,
+13 silly view       djviolin: true,
+13 silly view       jmsherry: true,
+13 silly view       mikekuzm: true,
+13 silly view       bartmichu: true,
+13 silly view       bdelanghe: true,
+13 silly view       bian17888: true,
+13 silly view       finnhvman: true,
+13 silly view       furzeface: true,
+13 silly view       isenricho: true,
+13 silly view       jaymcoder: true,
+13 silly view       largepuma: true,
+13 silly view       'ldq-first': true,
+13 silly view       nmccready: true,
+13 silly view       sqrtthree: true,
+13 silly view       tomgao365: true,
+13 silly view       voloshins: true,
+13 silly view       'funnel-dev': true,
+13 silly view       lababygirl: true,
+13 silly view       rbultitude: true,
+13 silly view       'sean-oneal': true,
+13 silly view       alvaroyanes: true,
+13 silly view       'flumpus-dev': true,
+13 silly view       growdigital: true,
+13 silly view       micromax720: true,
+13 silly view       sethbergman: true,
+13 silly view       soulchainer: true,
+13 silly view       'calin.buzatu': true,
+13 silly view       dpjayasekara: true,
+13 silly view       justdomepaul: true,
+13 silly view       pauljacobson: true,
+13 silly view       marcelohmdias: true,
+13 silly view       'serge-nikitin': true,
+13 silly view       dmitryscaletta: true
+13 silly view     },
+13 silly view     contributors: [ [Object], [Object], [Object] ],
+13 silly view     version: '15.0.0',
+13 silly view     dist: {
+13 silly view       shasum: '6b09add90ac79c2f8d723a2580e07f3925afd236',
+13 silly view       tarball: 'https://registry.npmjs.org/eslint-config-airbnb-base/-/eslint-config-airbnb-base-15.0.0.tgz',
+13 silly view       fileCount: 21,
+13 silly view       integrity: 'sha512-xaX3z4ZZIcFLvh2oUNvcX5oEofXda7giYmuplVxoOg5A7EXJMrUyqRgR+mhDhPK8LZ4PttFOBvCYDbX3sUoUig==',
+13 silly view       signatures: [Array],
+13 silly view       unpackedSize: 94028,
+13 silly view       'npm-signature': '-----BEGIN PGP SIGNATURE-----\r\n' +
+13 silly view         'Version: OpenPGP.js v3.0.13\r\n' +
+13 silly view         'Comment: https://openpgpjs.org\r\n' +
+13 silly view         '\r\n' +
+13 silly view         'wsFcBAEBCAAQBQJh2p7bCRA9TVsSAnZWagAA3DMP/1paK12QJcMueZdpFN84\n' +
+13 silly view         'wVjHOhVN5NRs/UXDuDgzA6pGuQt2bu89p/AO+my/8Fg27GF5SxBa6JXU+qr3\n' +
+13 silly view         'WfOsrvT8LT6C2GKoJc0gIF1+z5B+Tj+IqMAX5IWTBgX+2fprpi1SebktjhQP\n' +
+13 silly view         'ffVgweKUzJEVqWPRMa6P3q5LjBPN3dwXNhY7D4nQ9JfdMyWftW4s6B10Fmcf\n' +
+13 silly view         '+0PEFxjV5kKwVmWbe7x9m1DI8K8wpTBfpTv3xdjYPVOvTFeiiZcePxo6biAJ\n' +
+13 silly view         'KhivoUwc0eEAfyndrDCV8N7S/r/rSgWmO0rXi4A7g7SnQ7lVmDANXpJb+2cM\n' +
+13 silly view         'XoP3qmVvF3tmLjk3JGLliw0lGBI4frFqLC/mMBZl+Nn8Q2IoHxEj/9APJCDH\n' +
+13 silly view         '6Z5kBSvSWWMwfWQmHi0sgb8wE3/QVa3jeHUYt3FHfyJJOX54W8x3ed4gKUfl\n' +
+13 silly view         'G1iBRaRstMfQldbxFisSYZtWBocqFPeVLEYeZj8+J8uO6dgwU3N2k6bU+wuL\n' +
+13 silly view         'g1wa98BP6uRCUaIlwEBMBvgDVdKEwX6MHrWDf6vKarWmvK1diWuv8Wbq0Nai\n' +
+13 silly view         'l72j0wJrZHvcr3f/wBhsmdW99VpoCZZ3/JrHad4br+tKpD6YjJRiPtVRzsGR\n' +
+13 silly view         '34N9mICI6+qifJTo9rbQwD1Kcru8kAUJJwy5VLXrtDly24IRWO59yk1JPZdY\n' +
+13 silly view         'fqqT\r\n' +
+13 silly view         '=mS6l\r\n' +
+13 silly view         '-----END PGP SIGNATURE-----\r\n'
+13 silly view     },
+13 silly view     main: 'index.js',
+13 silly view     engines: { node: '^10.12.0 || >=12.0.0' },
+13 silly view     exports: {
+13 silly view       '.': './index.js',
+13 silly view       './legacy': './legacy.js',
+13 silly view       './rules/es6': './rules/es6.js',
+13 silly view       './rules/node': './rules/node.js',
+13 silly view       './whitespace': './whitespace.js',
+13 silly view       './rules/style': './rules/style.js',
+13 silly view       './package.json': './package.json',
+13 silly view       './rules/errors': './rules/errors.js',
+13 silly view       './rules/strict': './rules/strict.js',
+13 silly view       './rules/imports': './rules/imports.js',
+13 silly view       './rules/variables': './rules/variables.js',
+13 silly view       './rules/best-practices': './rules/best-practices.js'
+13 silly view     },
+13 silly view     gitHead: '366bfa66380c08304101c6add46355696e90b348',
+13 silly view     scripts: {
+13 silly view       lint: 'eslint --report-unused-disable-directives .',
+13 silly view       test: 'npm run --silent tests-only',
+13 silly view       travis: 'npm run --silent tests-only',
+13 silly view       prelint: 'eclint check * rules/* test/*',
+13 silly view       pretest: 'npm run --silent lint',
+13 silly view       pretravis: ':',
+13 silly view       posttravis: ':',
+13 silly view       prepublish: 'not-in-publish || npm run prepublishOnly',
+13 silly view       'tests-only': 'babel-tape-runner ./test/test-*.js',
+13 silly view       'pretests-only': 'node ./test/requires',
+13 silly view       prepublishOnly: 'eslint-find-rules --unused && npm test && safe-publish-latest'
+13 silly view     },
+13 silly view     _npmUser: { name: 'ljharb', email: 'ljharb@gmail.com' },
+13 silly view     _npmVersion: '8.1.0',
+13 silly view     directories: {},
+13 silly view     _nodeVersion: '17.0.1',
+13 silly view     dependencies: {
+13 silly view       semver: '^6.3.0',
+13 silly view       'object.assign': '^4.1.2',
+13 silly view       'object.entries': '^1.1.5',
+13 silly view       'confusing-browser-globals': '^1.0.10'
+13 silly view     },
+13 silly view     _hasShrinkwrap: false,
+13 silly view     devDependencies: {
+13 silly view       tape: '^5.3.1',
+13 silly view       eclint: '^2.8.1',
+13 silly view       eslint: '^7.32.0 || ^8.2.0',
+13 silly view       'in-publish': '^2.0.1',
+13 silly view       '@babel/runtime': '^7.16.0',
+13 silly view       'babel-tape-runner': '^3.0.0',
+13 silly view       'eslint-find-rules': '^4.0.0',
+13 silly view       'babel-preset-airbnb': '^4.5.0',
+13 silly view       'safe-publish-latest': '^2.0.0',
+13 silly view       'eslint-plugin-import': '^2.25.2'
+13 silly view     },
+13 silly view     peerDependencies: { eslint: '^7.32.0 || ^8.2.0', 'eslint-plugin-import': '^2.25.2' },
+13 silly view     _npmOperationalInternal: {
+13 silly view       tmp: 'tmp/eslint-config-airbnb-base_15.0.0_1636442403858_0.5300168187443328',
+13 silly view       host: 's3://npm-registry-packages'
+13 silly view     }
+13 silly view   }
+13 silly view }
+14 verbose cwd /home/olga
+15 verbose os Linux 5.15.153.1-microsoft-standard-WSL2
+16 verbose node v22.7.0
+17 verbose npm  v10.8.2
+18 verbose exit 0
+19 info ok
