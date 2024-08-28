@@ -1563,3 +1563,305 @@ npx eslint .
 nano Makefile
 npx eslint .
 npx eslint --f .
+eslint -v
+npx eslint .
+cd frontend-project-44
+npx eslint .
+nano package.json
+nano cli.js
+npm cache clean --force
+nano brain-games.js
+npx eslint .
+git status
+git add brain-games.js
+git commit -m 'changes in file for eslint'
+nano Makefile
+make init
+nano Makefile
+git add Makefile
+git commit -m 'Makefile'
+git status
+make init
+cd
+make init
+cd ./
+cd ../
+cd ./..
+cd ../..
+cd
+cd frontend-project
+cd frontend-project-44
+make init
+nano Makefile
+make init
+make lint
+nano Makefile
+make lint
+nano Makefile
+make init
+nano Makefile
+make init
+
+nano Makefile
+make init
+git status
+git add Makefile
+git commit -m 'Makefile'
+cd
+make init
+npx eslint .
+eslint -v
+npm init @eslint/config
+npx eslint .
+npx eslint --fix .
+nano eslint.config.js
+cd frontend-project-44
+nano eslint.config.js
+cd
+nano eslint.config.js
+npx eslint .
+nano eslint.config.js
+npx eslint .
+npx eslint --fix .
+npm install vuepress @vuepress/plugin-search @vuepress/plugin-shiki @vuepress/plugin-active-header-links
+npx eslint .
+cd asdf
+ls -a
+.asdf
+cd asdf
+cd ./asdf
+ls asdf
+ls .asdf
+cd docs
+ls .docs
+ls docs
+cd docs
+cd bin
+ls docs
+cd docs
+cd .docs
+ls docs
+ls -a
+cd ..
+c
+ls -a
+cd .asdf
+ls -a
+cd docs
+ls -a
+cd .vuepress
+ls a
+ls -a
+nano navbar.js
+nano sidebar.js
+cd
+nano eslint.config.js
+nano eslint.config.mjs
+nano eslint.config.js
+npx eslint .
+ls -a
+cd hexlet-js
+ls -a
+nano eslint.config.mjs
+npx eslint .
+nano eslint.config.mjs
+
+cd hexlet-js
+nano eslint.config.mjs
+npx eslint .
+cd
+npx eslint .
+ls -a
+cd .asdf
+ls a
+ls -a
+cd docs
+nano navbar.js
+ls -a
+cd .vuepress
+ls -a
+nano navbar.js
+cd
+npx eslint .
+git status
+git add .
+git status
+git restore --staged
+git status
+git restore .
+git status
+git add 'asdf'
+git add .asdf
+git commit -m 'asdf'
+git status
+git add .asdf
+git status
+git add -A
+git status
+git commit -a
+git status
+cd frontend-project-44
+make init
+cd
+sudo npm uninstall -g eslint
+eslint -v
+git status
+git commit -m 'delete eslint global'
+git clean -n
+git clean -f
+git status
+git commit -m 'delete eslint global version'
+git add .asdf
+git status
+eslint -v
+cd frontend-project
+cd frontend-project-44
+nano Makefile
+git status
+git add Makefile
+git commit -m 'make lint'
+git status
+make lint
+git push
+cd bin
+touch brain-even
+ls -a
+
+nano brain-even
+cd ..
+ls -a
+nano package.json
+git status
+git add package.json
+git commit -m package.json
+git status
+git add bin/brain-even
+git status
+git commit -m 'bin/brain-even'
+git status
+brain-even
+cd bin
+brain-even
+chmod +x bin/brain-even
+cd 
+cd frontend-project-44
+chmod +x bin/brain-even
+brain-even
+nano package.json
+git add pack
+git add
+git add .
+git status
+git commit -m 'package.json'
+git status
+brain-even
+nano brain-even
+cd bin
+nano brain-even
+git add .
+git status
+git commit -m 'brain-even'
+git status
+brain-even
+nano brain-even
+brain-even
+cd ..
+brain-even
+cd bin
+nano brain-even
+brain-even
+cd ..
+nano Makefile
+cd bin
+nano brain-even
+cd
+ls -a
+cd frontend-project-44
+ls -a
+cd src
+ls -a
+mkdir games
+ls -a
+cd ..
+cd bin
+ls -a
+brain-even
+nano brain-even
+code ..
+nano brain-even
+brain-even
+cd ..
+brain-even
+nano brain-games.js
+cd src
+nano cli.js
+cd ..
+brain-even
+nano package.json
+brain-even
+git status
+git add .
+git status
+git commit -m 'changes in files'
+git status
+brain-even
+nano package.json
+brain-even
+nano package.json
+git add .
+git commit -m 'changes in files'
+git status
+
+npm link
+nano package.json
+brain-even
+git status
+git add .
+git commit -m 'changes in files'
+git status
+brain-even
+npm link
+brain-even
+nano package.json
+brain-even
+node bin/brain-even.js
+brain-even
+ls -a
+npm link
+brain-even
+npm link
+brain-even
+npm link
+git status
+git add .
+git commit -m 'brain-even.js'
+git status
+brain-even
+git status
+git add .
+git commit -m 'brain-even.js'
+npm link
+brain-even
+git push
+brain-even
+sudo apt install asciinema
+cd frontend-project-44
+npm link
+brain-even
+~/frontend-project-44
+cd frontend-project-44
+asciinema rec demo.cast
+asciinema play demo.cast
+npm link
+brain-even
+npm link
+brain-even
+npm link
+brain-even
+npm link
+brain-even
+npm link
+brsin-even
+brain-even
+npm link
+brain-even
