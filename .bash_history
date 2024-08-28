@@ -1459,3 +1459,107 @@ npx eslint --fix .
 ls -a
 npm uninstall -g eslint
 rm -f .eslint.config.js
+eslint -v
+npm uninstall -g eslint
+rm -f .eslint.config.js
+eslint -v
+git status
+git rm .eslint.config.js
+eslint -v
+npm uninstall -g eslint
+rm -f .eslint.config.js
+eslint -v
+git status
+eslint -v
+npm uninstall eslint --save-dev
+rm -f .eslint.config.js
+ls -a
+rm -f eslint.config.js
+ls -a
+eslint -v
+git status
+git rm eslint.config.js
+git status
+git commit -m 'rm Eslint'
+eslint -v
+cd frontend-project-44
+ls -a
+eslint -v
+cd
+eslint -v
+npm list
+npm remove eslint
+git status
+eslint -v
+npm uninstall -g eslint
+npm uninstall eslint --save
+npm uninstall eslint --save-dev
+npm uninstall eslint-config-prettier
+npm remove eslint
+eslint -v
+git status
+git clean -n
+git clean -f
+git status
+git clean -n
+git add -A
+git status
+git commit -m 'remove files'
+git status
+eslint -v
+npm uninstall eslint --save-dev
+git status
+npmuninstall -g eslint
+rm -f eslint.config.js
+git status
+git rm eslint.config.js
+git commit -m 'remove eslint'
+git commit -m 'remove'
+ls -a
+eslint -v
+git clean -n
+git clean -f
+git status
+git clean -n
+npm list
+тзь -п дшые
+npm -g list
+sudo apt-get -y autoremove eslint
+пше ыефегы
+git status
+eslint -v
+npm uninstall -g eslint
+dpkg -l |grep eslint
+ls -a
+cd frontend-project-44
+npm install eslint --save-dev
+npx eslint --init
+ls -a
+npm install
+nano eslint.config.js
+git status
+git add -A
+git status
+git commit -m 'new eslint'
+npx eslint .
+npx eslint --fix .
+git status
+nano eslint.config.js
+nano Makefile
+git status
+nano eslint.config.js
+nano package.lock.json
+ls -a
+nano package-lock.json
+nano package.json
+git status
+npx eslint .
+npx eslint --fix .
+git add -a
+git add -A
+git commit -m 'changes in files'
+git status
+npx eslint .
+nano Makefile
+npx eslint .
+npx eslint --f .
