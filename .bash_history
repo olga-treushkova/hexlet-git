@@ -1865,3 +1865,60 @@ brsin-even
 brain-even
 npm link
 brain-even
+git status
+git add .
+git status
+git commit -m 'changes in brain-even'
+git status
+git add -A
+git status
+git commit -m 'changes in brain-even'
+git status
+git commit -m 'changes in brain-even'
+cd frontend-project-44
+git push
+git status
+git add -A
+git commit -m 'changes in brain-even'
+git status
+git push
+cd frontend-project-44
+asciinema rec demo.cast
+~/frontend-project-44$
+npm link
+brain-even
+cd frontend-project-44
+asciinema rec demo.cast
+asciinema rec demo.cast --overwrite
+asciinema play demo.cast
+asciinema play demo.cast --overwrite
+asciinema upload demo.cast
+asciinema upload my-session.cast
+asciinema upload demo.cast
+git status
+git add .
+git commit -m 'readme'
+git status
+git push
+git status
+git add .
+git commit -m 'readme'
+git status
+git push
+cd bin
+ls -a
+git add brain-calc.js
+git status
+git commit -m 'brain-calc.js'
+git status
+git add brain-calc
+git add brain-calc.js
+git status
+git commit -m 'brain-calc.js'
+git status
+git add package.json
+git add .
+ggit commit -m 'modified in file package.json'
+git commit -m 'modified in file package.json'
+git status
+git commit -m 'modified in file package.json'

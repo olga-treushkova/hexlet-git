@@ -9,3 +9,26 @@
 2024-08-28 16:56:57.698 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] <221293> Launched Extension Host Process.
 2024-08-28 18:04:12.294 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
 2024-08-28 18:04:12.340 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-08-28 20:26:40.787 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-08-28 20:26:41.152 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-08-28 20:48:54.369 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-08-28 20:48:54.714 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-08-28 22:08:49.071 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-08-28 22:08:51.139 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-08-28 22:58:30.933 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-08-28 22:58:30.979 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-08-28 23:44:50.199 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-08-28 23:44:50.206 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-08-29 19:23:48.193 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-08-29 19:24:11.287 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-08-29 19:24:11.288 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-08-29 19:32:22.415 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-08-29 19:34:01.016 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-08-29 19:34:01.017 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-08-29 19:34:05.457 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-08-29 22:39:43.719 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-08-29 22:40:04.440 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-08-29 22:40:04.443 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-08-29 22:40:14.558 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-08-29 23:43:26.044 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-08-29 23:43:31.495 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
