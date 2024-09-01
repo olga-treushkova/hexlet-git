@@ -7,8 +7,8 @@
 6 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/etc/npmrc
 7 verbose title npm link
 8 verbose argv "link"
-9 verbose logfile logs-max:10 dir:/home/olga/.npm/_logs/2024-08-28T14_14_05_912Z-
-10 verbose logfile /home/olga/.npm/_logs/2024-08-28T14_14_05_912Z-debug-0.log
+9 verbose logfile logs-max:10 dir:/home/olga/.npm/_logs/2024-09-01T11_58_37_795Z-
+10 verbose logfile /home/olga/.npm/_logs/2024-09-01T11_58_37_795Z-debug-0.log
 11 silly packumentCache heap:2081947648 maxSize:520486912 maxEntrySize:260243456
 12 silly logfile start cleaning logs, removing 1 files
 13 silly logfile done cleaning log files
@@ -16,7 +16,7 @@
 15 silly placeDep ROOT @hexlet/code@1.0.0 OK for:  want: file:../../../../../frontend-project-44
 16 silly reify moves {}
 17 silly audit bulk request { '@hexlet/code': [ '1.0.0' ] }
-18 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 379ms
+18 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 437ms
 19 silly audit report {}
 20 verbose cwd /home/olga/frontend-project-44
 21 verbose os Linux 5.15.153.1-microsoft-standard-WSL2

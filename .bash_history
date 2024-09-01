@@ -1,38 +1,3 @@
-ls
-ls -la
-git innit
-git init
-ls -la
-git remote add origin git@github.com:Tretyakoovaa/hexlet-git.git 
-git branch -M main
-git push -u origin main
-git remote add origin git@github.com:Tretyakoovaa/hexlet-git.git 
-git branch -M main
-git push -u origin main
-git remote add origin git@github.com:Tretyakoovaa/hexlet-git.git
-git branch -M main
-git push -u origin main
-sudo apt update
-sudo apt install git-all
-git config --global user.name <olga>
-git config --global user.name "olga"
-git config --global user.email "olgatreushkova@gmail.com"
-ssh-keygen -t ed25519  -C "olgatreushkova@gmail.com"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519
-cat ~/.ssh/id_ed25519.pub
-ssh -T git@github.com
-ls
-ls -la
-mkdir test
-ls
-cd test
-git status
-cd ..
-git add test
-git commit -m "test"
-ls
-git push
 git remote add origin git@github.com:Tretyakoovaa/hexlet-git.git
 git branch -M main
 git push -u origin main
@@ -1922,3 +1887,114 @@ ggit commit -m 'modified in file package.json'
 git commit -m 'modified in file package.json'
 git status
 git commit -m 'modified in file package.json'
+brain-calc
+brain-gcd
+git status
+git add .
+git status
+git commit -m 'new files'
+git status
+git add .
+git status
+cd frontend-project-44
+git status
+git add .
+git commit -m 'modified in file package.json'
+git status
+chmod +x bin/brain-calc.js
+git status
+git add .
+git commit -m 'now executable file'
+git status
+brain-calc.js
+brain-calc
+
+git status
+git add .
+git commit -m 'modified in file'
+git status
+brain-calc
+git status
+brain-calc
+cd bin
+brain-calc
+brain-calc.js
+git add .
+git commit -m 'modified in file'
+git status
+brain-calc
+cd ..
+brain calc
+brain-calc
+brain calc
+brain-calc
+git status
+git add .
+git commit -m 'last changes'
+git status
+git push
+npm link
+brain-calc
+npm link
+brain-calc
+npm link
+brain-calc
+npm link
+brain-calc
+npm link
+brain-calc
+asciinema rec demo.cast
+asciinema rec demo.cast --append
+asciinema upload demo.cast
+asciinema rec demo.cast 
+asciinema play demo.cast 
+asciinema rec demo.cast --overwrite
+asciinema upload demo.cast
+git status
+git add .
+git status
+git add .
+git status
+git commit -m 'logic of the allGames'
+git status
+npm link
+git push
+brain-even
+brain-games
+brain-calc
+cmod +x bin/brain-gcd.js
+chmod +x bin/brain-gcd.js
+npm link
+brain-gcd
+npm link
+brain-gcd
+npm link
+brain-gcd
+git status
+git add .
+git commit -m 'changes for brain-gcd'
+git status
+asciinema rec demo.cast --overwrite
+asciinema upload demo.cast
+git status
+git add .
+git commit -m 'link in readme.md'
+git status
+git push
+chmod +x bin/brain-progression.js
+git status
+npm link
+brain-progression
+git status
+git add .
+git commit -m 'modified files'
+git status
+npm link
+brain-progression
+brain-even
+brain-progression
+git status
+brain-progression
+git status
+npm link
+brain-progression

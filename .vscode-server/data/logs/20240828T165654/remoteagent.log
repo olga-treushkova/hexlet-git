@@ -32,3 +32,15 @@
 2024-08-29 22:40:14.558 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
 2024-08-29 23:43:26.044 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
 2024-08-29 23:43:31.495 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-01 09:38:04.170 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-01 09:38:06.016 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-01 09:38:06.017 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-01 09:38:06.747 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-01 12:41:39.330 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-01 12:41:39.725 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-01 14:26:13.344 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-01 14:26:13.620 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-01 15:33:58.968 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-01 15:33:59.403 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-01 17:32:56.829 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-01 17:32:57.520 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
