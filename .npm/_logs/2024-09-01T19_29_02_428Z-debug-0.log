@@ -1,0 +1,25 @@
+0 verbose cli /home/olga/.nvm/versions/node/v22.7.0/bin/node /home/olga/.nvm/versions/node/v22.7.0/bin/npm
+1 info using npm@10.8.2
+2 info using node@v22.7.0
+3 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/olga/.npmrc
+5 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/etc/npmrc
+6 verbose title npm link
+7 verbose argv "link"
+8 verbose logfile logs-max:10 dir:/home/olga/.npm/_logs/2024-09-01T19_29_02_428Z-
+9 verbose logfile /home/olga/.npm/_logs/2024-09-01T19_29_02_428Z-debug-0.log
+10 silly packumentCache heap:2081947648 maxSize:520486912 maxEntrySize:260243456
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly placeDep ROOT @hexlet/code.@1.0.0 OK for:  want: file:../../../../..
+15 silly reify moves {}
+16 silly audit bulk request { '@hexlet/code.': [ '1.0.0' ] }
+17 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 375ms
+18 silly audit report {}
+19 verbose cwd /home/olga
+20 verbose os Linux 5.15.153.1-microsoft-standard-WSL2
+21 verbose node v22.7.0
+22 verbose npm  v10.8.2
+23 verbose exit 0
+24 info ok

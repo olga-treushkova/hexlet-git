@@ -1,38 +1,3 @@
-git remote add origin git@github.com:Tretyakoovaa/hexlet-git.git
-git branch -M main
-git push -u origin main
-git pull --rebase
-cd test
-git pull --rebase
-git push -u origin main
-git push
-git remote add origin git@github.com:Tretyakoovaa/hexlet-git.git
-git branch -M main
-git push -u origin main
-ls
-ls -la
-git init
-git push origin -M main
-git remote add origin git@github.com:Tretyakoovaa/hexlet-git.git
-git branch -M main
-git remote rm origin
-git remote add origin git@github.com:Tretyakoovaa/hexlet-git.git
-git branch -M main
-git push origin -M main
-git push -u origin main
-git remote rm upstream
-git remote rm origin
-git push -u origin main
-git remote add origin git@github.com:Tretyakoovaa/hexlet-git.git
-git branch -M main
-git push -u origin main
-git push
-git push --set-upstream origin main
-ssh-keygen -t ed25519  -C "olgatreushkova@gmail.com"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519
-cat ~/.ssh/id_ed25519.pub
-ssh -T git@github.com
 git remote add origin https://github.com/olga-treushkova/hexlet-git.git
 git branch -M main
 git push -u origin main
@@ -1998,3 +1963,38 @@ brain-progression
 git status
 npm link
 brain-progression
+npm link
+brain-progression
+git status
+git add .
+git status
+git commit -m 'something'
+git status
+npm link
+brain-progression
+npm link
+brain-progression
+git status
+git add .
+git status
+git commit -m 'something changes'
+git status
+git add -A
+git status
+npm link
+brain-progression
+npm link
+brain-progression
+chmod +x bin/brain-progression.js
+chmod +x src/games/brain-progression.js
+chmod +x ../src/games/brain-progression.js
+chmod +x ../games/brain-progression.js
+chmod +x games/brain-progression.js
+
+npm link
+brain-progression
+npm link
+brain-progression
+npm link
+brain-progression
+git status
