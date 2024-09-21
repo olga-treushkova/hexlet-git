@@ -44,3 +44,172 @@
 2024-09-01 15:33:59.403 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
 2024-09-01 17:32:56.829 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
 2024-09-01 17:32:57.520 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-02 00:05:57.929 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-02 11:19:58.214 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-02 11:19:58.293 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-02 11:20:06.763 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-02 13:08:54.304 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-02 13:58:22.625 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-02 13:58:22.664 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-02 16:48:46.206 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-02 16:49:25.568 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-02 16:49:26.069 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-02 17:35:08.089 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-02 20:35:17.408 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-02 23:05:58.522 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-02 23:06:08.790 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-02 23:06:08.791 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-02 23:06:10.063 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-03 03:23:05.535 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-03 03:23:20.518 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-03 12:09:22.105 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-03 12:10:06.383 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-03 12:10:06.384 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-03 12:10:07.091 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-03 16:31:29.174 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-03 16:31:34.742 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-03 16:49:34.957 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-03 16:49:34.958 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-03 16:49:35.615 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-03 16:54:39.885 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-03 21:32:03.341 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-03 21:32:12.899 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-03 21:32:12.899 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-03 21:32:14.266 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-04 01:32:34.193 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-04 01:32:45.269 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-05 19:45:12.385 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-05 19:45:54.658 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-05 19:45:54.659 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-05 19:45:56.178 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-05 20:03:34.345 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-05 20:03:55.517 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-05 20:07:47.082 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-05 20:07:47.083 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-05 20:07:48.421 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-05 20:45:48.251 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2024-09-05 20:45:48.251 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2024-09-05 20:45:48.530 [info] Installing extension: ms-ceintl.vscode-language-pack-ru {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:03:34.824Z"},"pinned":false,"isApplicationScoped":true,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/olga/.vscode-server/extensions/extensions.json","external":"file:///home/olga/.vscode-server/extensions/extensions.json","path":"/home/olga/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-09-05 20:45:48.535 [info] Extension is already requested to install ms-ceintl.vscode-language-pack-ru file:///home/olga/.vscode-server/extensions/extensions.json
+2024-09-05 20:45:56.526 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ru: Success. Executed: true. Duration: 6429ms.
+2024-09-05 20:45:57.033 [info] Extracted extension to file:///home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.93.2024090409: ms-ceintl.vscode-language-pack-ru
+2024-09-05 20:45:57.091 [info] Renamed to /home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.93.2024090409
+2024-09-05 20:45:57.135 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ru-1.92.2024081409
+2024-09-05 20:45:57.138 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2024-09-05 20:45:57.389 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru file:///home/olga/.vscode-server/extensions/extensions.json
+2024-09-05 20:46:00.558 [info] Downloaded extension to file:///home/olga/.vscode-server/data/CachedExtensionVSIXs/cb06611a-7266-4bbf-9e7f-2f4071ee8976
+2024-09-05 20:46:00.566 [info] Installing extension: ms-ceintl.vscode-language-pack-ru {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:03:34.824Z"},"pinned":false,"isApplicationScoped":true,"donotIncludePackAndDependencies":true,"keepExisting":true,"installOnlyNewlyAddedFromExtensionPack":false,"profileLocation":{"$mid":1,"fsPath":"/home/olga/.vscode-server/extensions/extensions.json","external":"file:///home/olga/.vscode-server/extensions/extensions.json","path":"/home/olga/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-09-05 20:46:00.567 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-ru
+2024-09-05 20:46:00.583 [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-ru
+2024-09-05 20:46:00.595 [info] Deleted removeExisting extension from disk ms-ceintl.vscode-language-pack-ru /home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.92.2024081409
+2024-09-05 20:46:01.707 [info] Extracted extension to file:///home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.92.2024081409: ms-ceintl.vscode-language-pack-ru
+2024-09-05 20:46:01.782 [info] Renamed to /home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.92.2024081409
+2024-09-05 20:46:01.856 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ru-1.93.2024090409
+2024-09-05 20:46:01.859 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2024-09-05 20:46:02.108 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru file:///home/olga/.vscode-server/extensions/extensions.json
+2024-09-06 01:11:16.814 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-09 12:03:23.925 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-09 12:03:23.926 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-09 12:03:24.608 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-09 15:54:01.455 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-09 17:36:25.315 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-09 17:36:25.828 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-09 17:55:07.620 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-09 18:10:06.997 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-09 18:10:07.767 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-09 18:39:26.737 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-09 18:41:14.888 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-09 18:41:15.141 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-09 19:02:04.958 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-09 19:05:37.518 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-09 19:05:37.919 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-09 19:44:57.148 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-09 20:33:46.583 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-09 20:33:46.911 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-09 20:51:37.020 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-09 20:51:50.992 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-10 11:28:44.721 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-10 11:28:53.242 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-10 11:28:53.243 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-10 11:28:54.754 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-10 11:46:26.715 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-10 12:24:59.778 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-10 12:25:00.275 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-10 12:48:48.340 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-10 14:16:22.183 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-10 14:16:24.350 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-10 14:34:31.616 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-10 14:34:37.353 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-10 15:22:06.526 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-10 15:22:06.527 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-10 15:22:08.264 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-10 15:39:30.961 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-10 15:54:14.006 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-10 15:54:14.694 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-10 16:53:07.044 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-10 17:02:37.299 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-10 17:02:37.684 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-10 17:52:47.179 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-10 18:02:06.301 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-10 18:02:06.302 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-10 18:02:06.965 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-10 18:16:30.844 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-10 18:16:45.045 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-10 18:16:47.200 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-10 18:17:18.797 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-11 11:17:27.600 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-11 11:17:45.789 [error] No ptyHost heartbeat after 12 seconds
+2024-09-11 11:18:06.873 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-11 11:18:09.220 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-11 11:18:09.221 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-11 11:18:11.973 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-11 11:36:52.101 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-09-11 11:36:52.126 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-09-11 11:36:52.954 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/olga/frontend-project-44/node_modules/@types)
+2024-09-11 13:51:01.276 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-11 14:48:37.864 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-11 14:48:39.797 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-11 15:12:17.922 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-11 15:41:16.837 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-11 15:41:17.311 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-11 18:59:37.262 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-11 19:00:14.763 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-11 19:04:23.185 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-11 19:04:58.861 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-11 19:04:58.862 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-11 19:04:59.712 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-11 19:18:53.855 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-11 19:19:21.195 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-12 11:50:24.235 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-12 11:50:24.236 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-12 11:50:24.842 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-12 12:16:27.768 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-12 12:16:48.899 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-12 12:17:17.163 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-12 12:29:42.542 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-12 12:29:42.543 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-12 12:29:42.948 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-13 13:59:18.253 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-13 13:59:27.373 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-13 13:59:27.374 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-13 13:59:28.808 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-13 14:21:07.420 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-13 14:21:10.451 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-13 14:21:10.452 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-13 14:21:10.930 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-13 14:38:50.699 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-13 15:21:44.356 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-13 15:21:45.432 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-13 15:53:57.488 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-13 15:54:19.007 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-13 16:04:22.406 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-13 16:04:22.408 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-13 16:04:23.457 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-13 16:22:10.968 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-13 16:22:33.120 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-13 16:25:49.143 [info] [127.0.0.1][7bec4514][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-13 16:25:49.176 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.
+2024-09-13 16:25:50.004 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-13 18:24:32.015 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-13 18:52:41.401 [info] [127.0.0.1][dba941d3][ExtensionHostConnection] The client has reconnected.
+2024-09-13 18:52:41.588 [info] [127.0.0.1][7bec4514][ManagementConnection] The client has reconnected.

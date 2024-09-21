@@ -1,0 +1,89 @@
+0 verbose cli /home/olga/.nvm/versions/node/v22.7.0/bin/node /home/olga/.nvm/versions/node/v22.7.0/bin/npm
+1 info using npm@10.8.3
+2 info using node@v22.7.0
+3 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/olga/.cache/typescript/5.5/.npmrc
+5 silly config load:file:/home/olga/.npmrc
+6 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/etc/npmrc
+7 verbose title npm install @types/lodash@ts5.5 @types/readline-sync@ts5.5 @types/eslint__eslintrc@ts5.5 @types/eslint__js@ts5.5 @types/eslint@ts5.5 @types/eslint-plugin-jsx-a11y@ts5.5
+8 verbose argv "install" "--ignore-scripts" "@types/lodash@ts5.5" "@types/readline-sync@ts5.5" "@types/eslint__eslintrc@ts5.5" "@types/eslint__js@ts5.5" "@types/eslint@ts5.5" "@types/eslint-plugin-jsx-a11y@ts5.5" "--save-dev" "--user-agent" "typesInstaller/5.5.4"
+9 verbose logfile logs-max:10 dir:/home/olga/.npm/_logs/2024-09-21T18_14_47_128Z-
+10 verbose logfile /home/olga/.npm/_logs/2024-09-21T18_14_47_128Z-debug-0.log
+11 silly packumentCache heap:2081947648 maxSize:520486912 maxEntrySize:260243456
+12 silly logfile start cleaning logs, removing 1 files
+13 silly logfile done cleaning log files
+14 silly packumentCache corgi:https://registry.npmjs.org/@types%2flodash cache-miss
+15 silly packumentCache corgi:https://registry.npmjs.org/@types%2freadline-sync cache-miss
+16 silly packumentCache corgi:https://registry.npmjs.org/@types%2feslint__eslintrc cache-miss
+17 silly packumentCache corgi:https://registry.npmjs.org/@types%2feslint__js cache-miss
+18 silly packumentCache corgi:https://registry.npmjs.org/@types%2feslint cache-miss
+19 silly packumentCache corgi:https://registry.npmjs.org/@types%2feslint-plugin-jsx-a11y cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@types%2feslint 277ms (cache revalidated)
+21 silly packumentCache corgi:https://registry.npmjs.org/@types%2feslint set size:101933 disposed:false
+22 http fetch GET 200 https://registry.npmjs.org/@types%2flodash 296ms (cache miss)
+23 silly packumentCache corgi:https://registry.npmjs.org/@types%2flodash set size:undefined disposed:false
+24 http fetch GET 200 https://registry.npmjs.org/@types%2feslint__eslintrc 357ms (cache revalidated)
+25 silly packumentCache corgi:https://registry.npmjs.org/@types%2feslint__eslintrc set size:2058 disposed:false
+26 http fetch GET 200 https://registry.npmjs.org/@types%2feslint-plugin-jsx-a11y 362ms (cache miss)
+27 silly packumentCache corgi:https://registry.npmjs.org/@types%2feslint-plugin-jsx-a11y set size:undefined disposed:false
+28 http fetch GET 200 https://registry.npmjs.org/@types%2feslint__js 426ms (cache revalidated)
+29 silly packumentCache corgi:https://registry.npmjs.org/@types%2feslint__js set size:2618 disposed:false
+30 http fetch GET 200 https://registry.npmjs.org/@types%2freadline-sync 1388ms (cache revalidated)
+31 silly packumentCache corgi:https://registry.npmjs.org/@types%2freadline-sync set size:6282 disposed:false
+32 silly idealTree buildDeps
+33 silly fetch manifest @types/eslint@9.6.1
+34 silly packumentCache full:https://registry.npmjs.org/@types%2feslint cache-miss
+35 http fetch GET 200 https://registry.npmjs.org/@types%2feslint 96ms (cache revalidated)
+36 silly packumentCache full:https://registry.npmjs.org/@types%2feslint set size:220085 disposed:false
+37 silly fetch manifest @types/eslint__eslintrc@2.1.2
+38 silly packumentCache full:https://registry.npmjs.org/@types%2feslint__eslintrc cache-miss
+39 http fetch GET 200 https://registry.npmjs.org/@types%2feslint__eslintrc 832ms (cache revalidated)
+40 silly packumentCache full:https://registry.npmjs.org/@types%2feslint__eslintrc set size:5579 disposed:false
+41 silly fetch manifest @types/eslint__js@8.42.3
+42 silly packumentCache full:https://registry.npmjs.org/@types%2feslint__js cache-miss
+43 http fetch GET 200 https://registry.npmjs.org/@types%2feslint__js 210ms (cache revalidated)
+44 silly packumentCache full:https://registry.npmjs.org/@types%2feslint__js set size:6957 disposed:false
+45 silly fetch manifest @types/readline-sync@1.4.8
+46 silly packumentCache full:https://registry.npmjs.org/@types%2freadline-sync cache-miss
+47 http fetch GET 200 https://registry.npmjs.org/@types%2freadline-sync 1434ms (cache revalidated)
+48 silly packumentCache full:https://registry.npmjs.org/@types%2freadline-sync set size:14990 disposed:false
+49 silly fetch manifest @types/lodash@4.17.7
+50 silly packumentCache full:https://registry.npmjs.org/@types%2flodash cache-miss
+51 http fetch GET 200 https://registry.npmjs.org/@types%2flodash 280ms (cache miss)
+52 silly packumentCache full:https://registry.npmjs.org/@types%2flodash set size:undefined disposed:false
+53 silly fetch manifest @types/eslint-plugin-jsx-a11y@6.9.0
+54 silly packumentCache full:https://registry.npmjs.org/@types%2feslint-plugin-jsx-a11y cache-miss
+55 http fetch GET 200 https://registry.npmjs.org/@types%2feslint-plugin-jsx-a11y 629ms (cache miss)
+56 silly packumentCache full:https://registry.npmjs.org/@types%2feslint-plugin-jsx-a11y set size:undefined disposed:false
+57 silly placeDep ROOT @types/eslint@9.6.1 REPLACE for:  want: 9.6.1
+58 silly placeDep ROOT @types/eslint__eslintrc@2.1.2 REPLACE for:  want: 2.1.2
+59 silly placeDep ROOT @types/eslint__js@8.42.3 REPLACE for:  want: 8.42.3
+60 silly placeDep ROOT @types/eslint-plugin-jsx-a11y@6.9.0 OK for:  want: 6.9.0
+61 silly placeDep ROOT @types/lodash@4.17.7 OK for:  want: 4.17.7
+62 silly placeDep ROOT @types/readline-sync@1.4.8 REPLACE for:  want: 1.4.8
+63 silly reify moves {}
+64 silly audit bulk request {
+64 silly audit   '@types/estree': [ '1.0.5' ],
+64 silly audit   '@types/json-schema': [ '7.0.15' ],
+64 silly audit   'types-registry': [ '0.1.686' ],
+64 silly audit   '@types/eslint': [ '9.6.1' ],
+64 silly audit   '@types/eslint__eslintrc': [ '2.1.2' ],
+64 silly audit   '@types/eslint__js': [ '8.42.3' ],
+64 silly audit   '@types/eslint-plugin-jsx-a11y': [ '6.9.0' ],
+64 silly audit   '@types/lodash': [ '4.17.7' ],
+64 silly audit   '@types/readline-sync': [ '1.4.8' ]
+64 silly audit }
+65 silly tarball no local data for @types/lodash@https://registry.npmjs.org/@types/lodash/-/lodash-4.17.7.tgz. Extracting by manifest.
+66 silly tarball no local data for @types/eslint-plugin-jsx-a11y@https://registry.npmjs.org/@types/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-6.9.0.tgz. Extracting by manifest.
+67 http fetch GET 200 https://registry.npmjs.org/@types/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-6.9.0.tgz 122ms (cache miss)
+68 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 234ms
+69 silly audit report {}
+70 http fetch GET 200 https://registry.npmjs.org/@types/lodash/-/lodash-4.17.7.tgz 577ms (cache miss)
+71 silly ADD node_modules/@types/lodash
+72 silly ADD node_modules/@types/eslint-plugin-jsx-a11y
+73 verbose cwd /home/olga/.cache/typescript/5.5
+74 verbose os Linux 5.15.153.1-microsoft-standard-WSL2
+75 verbose node v22.7.0
+76 verbose npm  v10.8.3
+77 verbose exit 0
+78 info ok

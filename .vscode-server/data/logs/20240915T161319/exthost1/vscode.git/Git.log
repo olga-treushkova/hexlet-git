@@ -1,0 +1,31 @@
+2024-09-15 16:13:35.380 [info] [основное] Уровень ведения журнала: Info
+2024-09-15 16:13:35.380 [info] [основное] Проверка найденного Git в: "git"
+2024-09-15 16:13:35.380 [info] [основное] Используется Git "2.34.1" из "git"
+2024-09-15 16:13:35.380 [info] [Model][doInitialScan] Initial repository scan started
+2024-09-15 16:13:35.380 [info] > git rev-parse --show-toplevel [140ms]
+2024-09-15 16:13:35.485 [info] > git rev-parse --git-dir --git-common-dir [33ms]
+2024-09-15 16:13:35.714 [info] [Model][openRepository] Opened repository: /home/olga/frontend-project-44
+2024-09-15 16:13:36.954 [info] > git rev-parse --show-toplevel [319ms]
+2024-09-15 16:13:36.956 [info] > git config --get commit.template [356ms]
+2024-09-15 16:13:37.902 [info] > git rev-parse --show-toplevel [930ms]
+2024-09-15 16:13:38.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1223ms]
+2024-09-15 16:13:38.230 [info] > git check-ignore -v -z --stdin [249ms]
+2024-09-15 16:13:38.245 [info] > git rev-parse --show-toplevel [196ms]
+2024-09-15 16:13:38.841 [info] > git rev-parse --show-toplevel [523ms]
+2024-09-15 16:13:38.857 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-09-15 16:13:38.940 [info] > git ls-files --stage -- /home/olga/frontend-project-44/src/games/brain-prime.js [21ms]
+2024-09-15 16:13:39.007 [info] > git show --textconv :src/games/brain-prime.js [121ms]
+2024-09-15 16:13:39.008 [info] > git cat-file -s 2784d92f689f7c66a8b0ad63c797d312f30285eb [53ms]
+2024-09-15 16:13:39.042 [info] > git status -z -uall [105ms]
+2024-09-15 16:13:39.138 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [75ms]
+2024-09-15 16:13:39.208 [info] > git config --local branch.main.vscode-merge-base [28ms]
+2024-09-15 16:13:39.241 [info] > git config --get commit.template [117ms]
+2024-09-15 16:13:39.336 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-09-15 16:13:39.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [109ms]
+2024-09-15 16:13:39.383 [info] > git merge-base refs/heads/main refs/remotes/origin/main [12ms]
+2024-09-15 16:13:39.428 [info] > git status -z -uall [2ms]
+2024-09-15 16:13:39.539 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [48ms]
+2024-09-15 16:13:39.592 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [181ms]
+2024-09-15 16:13:39.607 [info] > git config --local branch.main.vscode-merge-base [47ms]
+2024-09-15 16:13:39.679 [info] > git diff --name-status -z --diff-filter=ADMR 4d6a7b5311521b182d060240737432bc2bef42f4...refs/remotes/origin/main [72ms]
+2024-09-15 16:13:39.803 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [142ms]
