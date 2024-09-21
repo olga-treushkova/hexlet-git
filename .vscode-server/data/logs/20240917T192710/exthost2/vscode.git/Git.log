@@ -1609,3 +1609,150 @@
 2024-09-21 21:34:28.050 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
 2024-09-21 21:34:28.055 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
 2024-09-21 21:34:28.055 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 21:34:30.220 [info] > git config --get commit.template [6ms]
+2024-09-21 21:34:30.222 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-09-21 21:34:30.225 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 21:34:30.227 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-09-21 21:34:30.334 [info] > git status -z -uall [103ms]
+2024-09-21 21:34:30.341 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-21 21:34:30.348 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-09-21 21:34:30.348 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 21:34:30.358 [info] > git reflog main --grep-reflog=branch: Created from *. [4ms]
+2024-09-21 21:34:30.365 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-09-21 21:34:30.365 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 21:34:31.433 [info] > git ls-files --stage -- /home/olga/hexlet-jest/package.json [18ms]
+2024-09-21 21:34:31.441 [info] > git cat-file -s ae29a0f7008f4ce123a4f2d695d6d6c31cb1a735 [3ms]
+2024-09-21 21:34:31.455 [info] > git show --textconv :hexlet-jest/package.json [5ms]
+2024-09-21 21:34:33.047 [info] > git config --get commit.template [4ms]
+2024-09-21 21:34:33.049 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-09-21 21:34:33.053 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 21:34:33.054 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-09-21 21:34:33.152 [info] > git status -z -uall [94ms]
+2024-09-21 21:34:33.160 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-21 21:34:33.175 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-09-21 21:34:33.175 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 21:34:33.193 [info] > git reflog main --grep-reflog=branch: Created from *. [12ms]
+2024-09-21 21:34:33.208 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-09-21 21:34:33.208 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 21:34:34.874 [info] > git ls-files --stage -- /home/olga/hexlet-jest/package.json [9ms]
+2024-09-21 21:34:34.881 [info] > git cat-file -s ae29a0f7008f4ce123a4f2d695d6d6c31cb1a735 [2ms]
+2024-09-21 21:34:34.898 [info] > git show --textconv :hexlet-jest/package.json [5ms]
+2024-09-21 21:34:38.167 [info] > git config --get commit.template [3ms]
+2024-09-21 21:34:38.173 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-09-21 21:34:38.177 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 21:34:38.178 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-09-21 21:34:38.277 [info] > git status -z -uall [94ms]
+2024-09-21 21:34:38.284 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-21 21:34:38.293 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2024-09-21 21:34:38.293 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 21:34:38.301 [info] > git reflog main --grep-reflog=branch: Created from *. [4ms]
+2024-09-21 21:34:38.307 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-09-21 21:34:38.307 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 21:34:43.317 [info] > git config --get commit.template [12ms]
+2024-09-21 21:34:43.320 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-09-21 21:34:43.326 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 21:34:43.327 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-09-21 21:34:43.427 [info] > git status -z -uall [95ms]
+2024-09-21 21:34:43.434 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-21 21:34:43.444 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-09-21 21:34:43.444 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 21:34:43.452 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2024-09-21 21:34:43.457 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-09-21 21:34:43.457 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 21:34:48.463 [info] > git config --get commit.template [11ms]
+2024-09-21 21:34:48.466 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-09-21 21:34:48.471 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 21:34:48.472 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-09-21 21:34:48.570 [info] > git status -z -uall [94ms]
+2024-09-21 21:34:48.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-09-21 21:34:48.586 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-09-21 21:34:48.586 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 21:34:48.594 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2024-09-21 21:34:48.599 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-09-21 21:34:48.599 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 21:34:50.381 [info] > git config --get commit.template [3ms]
+2024-09-21 21:34:50.391 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-09-21 21:34:50.396 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 21:34:50.397 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-09-21 21:34:50.502 [info] > git status -z -uall [99ms]
+2024-09-21 21:34:50.510 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-09-21 21:34:50.520 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-09-21 21:34:50.520 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 21:34:50.538 [info] > git reflog main --grep-reflog=branch: Created from *. [11ms]
+2024-09-21 21:34:50.548 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [3ms]
+2024-09-21 21:34:50.548 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 21:34:50.560 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2024-09-21 21:34:50.571 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2024-09-21 21:34:50.578 [info] > git diff --name-status -z --diff-filter=ADMR 5cd9030637160ceea4e800aac11068a3cc210de8...refs/remotes/origin/main [3ms]
+2024-09-21 21:34:51.689 [info] > git ls-files --stage -- /home/olga/hexlet-jest/package.json [10ms]
+2024-09-21 21:34:51.696 [info] > git cat-file -s ae29a0f7008f4ce123a4f2d695d6d6c31cb1a735 [2ms]
+2024-09-21 21:34:51.710 [info] > git show --textconv :hexlet-jest/package.json [5ms]
+2024-09-21 21:34:53.600 [info] > git config --get commit.template [8ms]
+2024-09-21 21:34:53.603 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-09-21 21:34:53.607 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 21:34:53.609 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-09-21 21:34:53.707 [info] > git status -z -uall [94ms]
+2024-09-21 21:34:53.715 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-09-21 21:34:53.723 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2024-09-21 21:34:53.723 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 21:34:53.731 [info] > git reflog main --grep-reflog=branch: Created from *. [4ms]
+2024-09-21 21:34:53.736 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-09-21 21:34:53.736 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 21:34:58.745 [info] > git config --get commit.template [11ms]
+2024-09-21 21:34:58.748 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-09-21 21:34:58.754 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 21:34:58.755 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-09-21 21:34:58.854 [info] > git status -z -uall [94ms]
+2024-09-21 21:34:58.862 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-09-21 21:34:58.871 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-09-21 21:34:58.871 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 21:34:58.879 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2024-09-21 21:34:58.884 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-09-21 21:34:58.884 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 21:35:03.908 [info] > git config --get commit.template [14ms]
+2024-09-21 21:35:03.912 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-09-21 21:35:03.917 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 21:35:03.919 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-09-21 21:35:04.060 [info] > git status -z -uall [133ms]
+2024-09-21 21:35:04.068 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-21 21:35:04.081 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2024-09-21 21:35:04.081 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 21:35:04.095 [info] > git reflog main --grep-reflog=branch: Created from *. [8ms]
+2024-09-21 21:35:04.101 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-09-21 21:35:04.101 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 22:31:50.523 [info] > git config --get commit.template [155ms]
+2024-09-21 22:31:50.611 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [232ms]
+2024-09-21 22:31:50.617 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 22:31:50.623 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2024-09-21 22:31:54.251 [info] > git status -z -uall [3619ms]
+2024-09-21 22:31:54.263 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-09-21 22:31:54.272 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-09-21 22:31:54.272 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 22:31:54.285 [info] > git reflog main --grep-reflog=branch: Created from *. [5ms]
+2024-09-21 22:31:54.293 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [4ms]
+2024-09-21 22:31:54.293 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 22:31:59.272 [info] > git config --get commit.template [7ms]
+2024-09-21 22:31:59.274 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-21 22:31:59.279 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 22:31:59.280 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-09-21 22:31:59.428 [info] > git status -z -uall [144ms]
+2024-09-21 22:31:59.438 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-09-21 22:31:59.448 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-09-21 22:31:59.448 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 22:31:59.458 [info] > git reflog main --grep-reflog=branch: Created from *. [5ms]
+2024-09-21 22:31:59.464 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-09-21 22:31:59.464 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-21 22:32:04.425 [info] > git ls-files --stage -- /home/olga/hexlet-jest/package.json [10ms]
+2024-09-21 22:32:04.441 [info] > git cat-file -s ae29a0f7008f4ce123a4f2d695d6d6c31cb1a735 [9ms]
+2024-09-21 22:32:04.443 [info] > git config --get commit.template [2ms]
+2024-09-21 22:32:04.452 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-09-21 22:32:04.458 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-09-21 22:32:04.459 [info] > git show --textconv :hexlet-jest/package.json [8ms]
+2024-09-21 22:32:04.460 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-09-21 22:32:04.563 [info] > git status -z -uall [99ms]
+2024-09-21 22:32:04.570 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-21 22:32:04.578 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-09-21 22:32:04.578 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-21 22:32:04.586 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2024-09-21 22:32:04.590 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-09-21 22:32:04.590 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref

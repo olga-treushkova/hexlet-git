@@ -96,3 +96,5 @@
 2024-09-21 21:13:45.081 [info] [127.0.0.1][5f16fbca][ExtensionHostConnection] <257528> Launched Extension Host Process.
 2024-09-21 21:15:34.552 [info] [127.0.0.1][22fdb282][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
 2024-09-21 21:15:35.161 [info] [127.0.0.1][d0079ed8][ExtensionHostConnection] <132914> Extension Host Process exited with code: 0, signal: null.
+2024-09-21 22:30:40.266 [info] [127.0.0.1][a42c9519][ManagementConnection] The client has reconnected.
+2024-09-21 22:30:40.583 [info] [127.0.0.1][5f16fbca][ExtensionHostConnection] The client has reconnected.
