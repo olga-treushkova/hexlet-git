@@ -98,3 +98,17 @@
 2024-09-21 21:15:35.161 [info] [127.0.0.1][d0079ed8][ExtensionHostConnection] <132914> Extension Host Process exited with code: 0, signal: null.
 2024-09-21 22:30:40.266 [info] [127.0.0.1][a42c9519][ManagementConnection] The client has reconnected.
 2024-09-21 22:30:40.583 [info] [127.0.0.1][5f16fbca][ExtensionHostConnection] The client has reconnected.
+2024-09-21 22:49:27.873 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-21 22:54:52.013 [info] [127.0.0.1][a42c9519][ManagementConnection] The client has reconnected.
+2024-09-21 22:54:52.206 [info] [127.0.0.1][5f16fbca][ExtensionHostConnection] The client has reconnected.
+2024-09-22 00:22:33.616 [info] [127.0.0.1][a42c9519][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-22 22:34:01.393 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-23 14:03:37.931 [info] [127.0.0.1][a42c9519][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-23 14:03:37.932 [info] [127.0.0.1][a42c9519][ManagementConnection] The client has reconnected.
+2024-09-23 14:03:37.984 [info] [127.0.0.1][5f16fbca][ExtensionHostConnection] The client has reconnected.
+2024-09-23 14:21:27.680 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-23 14:21:36.348 [info] [127.0.0.1][a42c9519][ManagementConnection] The client has reconnected.
+2024-09-23 14:21:41.352 [info] [127.0.0.1][5f16fbca][ExtensionHostConnection] The client has reconnected.
+2024-09-23 14:45:29.226 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-23 14:46:47.368 [info] [127.0.0.1][5f16fbca][ExtensionHostConnection] The client has reconnected.
+2024-09-23 14:46:47.562 [info] [127.0.0.1][a42c9519][ManagementConnection] The client has reconnected.
