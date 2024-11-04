@@ -1,0 +1,33 @@
+2024-11-04 14:01:03.399 [info] 
+
+
+
+
+2024-11-04 14:01:03.457 [info] Extension host agent started.
+2024-11-04 14:01:03.875 [info] [127.0.0.1][7c6a772d][ManagementConnection] New connection established.
+2024-11-04 14:01:05.006 [info] [127.0.0.1][0c71200e][ExtensionHostConnection] New connection established.
+2024-11-04 14:01:07.701 [info] [127.0.0.1][0c71200e][ExtensionHostConnection] <2766> Launched Extension Host Process.
+2024-11-04 14:01:07.811 [info] [127.0.0.1][0c71200e][ExtensionHostConnection] <2766><stderr> Error reading NLS messages file /home/olga/.vscode-server/data/clp/0993198239d7e63977abb345ff8b5c5a.ru/384ff7382de624fb94dbaf6da11977bba1ecd427/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/olga/.vscode-server/data/clp/0993198239d7e63977abb345ff8b5c5a.ru/384ff7382de624fb94dbaf6da11977bba1ecd427/nls.messages.json'
+
+2024-11-04 14:01:22.939 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2024-11-04 14:01:22.940 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2024-11-04 14:01:23.097 [info] Installing extension: ms-ceintl.vscode-language-pack-ru {"productVersion":{"version":"1.95.1","date":"2024-10-31T05:15:33.676Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/olga/.vscode-server/extensions/extensions.json","external":"file:///home/olga/.vscode-server/extensions/extensions.json","path":"/home/olga/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-11-04 14:01:23.114 [info] Extension is already requested to install ms-ceintl.vscode-language-pack-ru file:///home/olga/.vscode-server/extensions/extensions.json
+2024-11-04 14:01:27.844 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ru: Success. Executed: true. Duration: 3478ms.
+2024-11-04 14:01:28.080 [info] Extracted extension to file:///home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.95.2024103009: ms-ceintl.vscode-language-pack-ru
+2024-11-04 14:01:28.086 [info] Renamed to /home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.95.2024103009
+2024-11-04 14:01:28.109 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ru-1.94.2024101609
+2024-11-04 14:01:28.111 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2024-11-04 14:01:28.151 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru file:///home/olga/.vscode-server/extensions/extensions.json
+2024-11-04 14:01:30.490 [info] Downloaded extension to file:///home/olga/.vscode-server/data/CachedExtensionVSIXs/a366105e-f900-4da1-9739-bbedbea2c651
+2024-11-04 14:01:30.493 [info] Installing extension: ms-ceintl.vscode-language-pack-ru {"productVersion":{"version":"1.95.1","date":"2024-10-31T05:15:33.676Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"installOnlyNewlyAddedFromExtensionPack":false,"profileLocation":{"$mid":1,"fsPath":"/home/olga/.vscode-server/extensions/extensions.json","external":"file:///home/olga/.vscode-server/extensions/extensions.json","path":"/home/olga/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-11-04 14:01:30.494 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-ru
+2024-11-04 14:01:30.505 [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-ru
+2024-11-04 14:01:30.512 [info] Deleted removeExisting extension from disk ms-ceintl.vscode-language-pack-ru /home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.94.2024101609
+2024-11-04 14:01:30.779 [info] Extracted extension to file:///home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.94.2024101609: ms-ceintl.vscode-language-pack-ru
+2024-11-04 14:01:30.791 [info] Renamed to /home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.94.2024101609
+2024-11-04 14:01:30.812 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ru-1.95.2024103009
+2024-11-04 14:01:30.817 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2024-11-04 14:01:30.851 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru file:///home/olga/.vscode-server/extensions/extensions.json
+2024-11-04 14:01:52.321 [info] [127.0.0.1][7c6a772d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-04 14:01:52.855 [info] [127.0.0.1][0c71200e][ExtensionHostConnection] <2766> Extension Host Process exited with code: 0, signal: null.

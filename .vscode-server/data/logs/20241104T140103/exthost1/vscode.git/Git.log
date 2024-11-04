@@ -1,0 +1,185 @@
+2024-11-04 14:01:12.002 [info] [основное] Уровень ведения журнала: Info
+2024-11-04 14:01:12.002 [info] [основное] Проверка найденного Git в: "git"
+2024-11-04 14:01:12.002 [info] [основное] Используется Git "2.34.1" из "git"
+2024-11-04 14:01:12.002 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-04 14:01:12.002 [info] > git rev-parse --show-toplevel [14ms]
+2024-11-04 14:01:12.002 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-11-04 14:01:12.002 [info] [Model][openRepository] Opened repository: /home/olga
+2024-11-04 14:01:12.026 [info] > git config --get commit.template [9ms]
+2024-11-04 14:01:12.046 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-04 14:01:12.047 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-11-04 14:01:12.055 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-11-04 14:01:12.056 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-11-04 14:01:12.062 [info] [Model][openRepository] Opened repository: /home/olga/.asdf
+2024-11-04 14:01:12.071 [info] > git rev-parse refs/remotes/origin/main [17ms]
+2024-11-04 14:01:12.097 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-11-04 14:01:12.100 [info] > git rev-parse --show-toplevel [29ms]
+2024-11-04 14:01:12.101 [info] > git config --get commit.template [33ms]
+2024-11-04 14:01:12.126 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-04 14:01:12.134 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [6ms]
+2024-11-04 14:01:12.148 [info] > git rev-parse --show-toplevel [18ms]
+2024-11-04 14:01:12.154 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-11-04 14:01:12.167 [info] > git status -z -uall [30ms]
+2024-11-04 14:01:12.171 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-04 14:01:12.280 [info] > git rev-parse --show-toplevel [38ms]
+2024-11-04 14:01:12.328 [info] > git config --get commit.template [50ms]
+2024-11-04 14:01:12.344 [info] > git status -z -uall [264ms]
+2024-11-04 14:01:13.467 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [907ms]
+2024-11-04 14:01:13.472 [info] > git rev-parse --show-toplevel [1144ms]
+2024-11-04 14:01:13.494 [info] > git config --local branch.main.vscode-merge-base [22ms]
+2024-11-04 14:01:13.494 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-04 14:01:13.500 [info] > git config --get commit.template [186ms]
+2024-11-04 14:01:13.500 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [191ms]
+2024-11-04 14:01:13.535 [info] > git status -z -uall [18ms]
+2024-11-04 14:01:13.536 [info] > git reflog main --grep-reflog=branch: Created from *. [37ms]
+2024-11-04 14:01:13.547 [info] > git rev-parse --git-dir --git-common-dir [55ms]
+2024-11-04 14:01:13.563 [info] [Model][openRepository] Opened repository: /home/olga/.nvm
+2024-11-04 14:01:13.601 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [55ms]
+2024-11-04 14:01:13.601 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-04 14:01:13.601 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-04 14:01:13.615 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [83ms]
+2024-11-04 14:01:13.634 [info] > git merge-base refs/heads/main refs/remotes/origin/main [29ms]
+2024-11-04 14:01:13.650 [info] > git rev-parse --show-toplevel [50ms]
+2024-11-04 14:01:13.651 [info] > git config --get commit.template [57ms]
+2024-11-04 14:01:13.651 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [71ms]
+2024-11-04 14:01:13.669 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-11-04 14:01:13.675 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2024-11-04 14:01:13.702 [info] > git rev-parse --show-toplevel [39ms]
+2024-11-04 14:01:13.703 [info] > git diff --name-status -z --diff-filter=ADMR 5cd9030637160ceea4e800aac11068a3cc210de8...refs/remotes/origin/main [53ms]
+2024-11-04 14:01:13.759 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [57ms]
+2024-11-04 14:01:13.760 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [86ms]
+2024-11-04 14:01:13.798 [info] > git status -z -uall [12ms]
+2024-11-04 14:01:13.799 [info] > git rev-parse --show-toplevel [46ms]
+2024-11-04 14:01:13.812 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-04 14:01:13.813 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2024-11-04 14:01:13.841 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2024-11-04 14:01:13.848 [info] [Model][openRepository] Opened repository: /home/olga/frontend-project-44
+2024-11-04 14:01:13.860 [info] > git config --get commit.template [20ms]
+2024-11-04 14:01:13.871 [info] > git rev-parse --show-toplevel [13ms]
+2024-11-04 14:01:13.872 [info] > git config --get commit.template [18ms]
+2024-11-04 14:01:13.879 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [13ms]
+2024-11-04 14:01:13.934 [info] > git status -z -uall [46ms]
+2024-11-04 14:01:13.934 [info] > git rev-parse --git-dir --git-common-dir [56ms]
+2024-11-04 14:01:13.943 [info] [Model][openRepository] Opened repository: /home/olga/frontend-project-46
+2024-11-04 14:01:13.975 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [55ms]
+2024-11-04 14:01:13.976 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [72ms]
+2024-11-04 14:01:13.994 [info] > git config --get commit.template [39ms]
+2024-11-04 14:01:14.001 [info] > git rev-parse --show-toplevel [26ms]
+2024-11-04 14:01:14.043 [info] > git status -z -uall [352ms]
+2024-11-04 14:01:14.043 [info] > git status -z -uall [20ms]
+2024-11-04 14:01:14.118 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [91ms]
+2024-11-04 14:01:14.137 [info] > git rev-parse --git-dir --git-common-dir [118ms]
+2024-11-04 14:01:14.144 [info] [Model][openRepository] Opened repository: /home/olga/hexlet-git
+2024-11-04 14:01:14.146 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [133ms]
+2024-11-04 14:01:14.171 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/frontend-project-46/.git/refs/remotes/origin/main'
+2024-11-04 14:01:14.184 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [50ms]
+2024-11-04 14:01:14.818 [info] > git config --local branch.main.vscode-merge-base [613ms]
+2024-11-04 14:01:14.823 [info] > git rev-parse refs/remotes/origin/main [652ms]
+2024-11-04 14:01:14.831 [info] > git rev-parse --show-toplevel [669ms]
+2024-11-04 14:01:14.831 [info] > git config --get commit.template [674ms]
+2024-11-04 14:01:14.832 [info] > git config --get commit.template [679ms]
+2024-11-04 14:01:14.841 [info] > git status -z -uall [15ms]
+2024-11-04 14:01:14.842 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+2024-11-04 14:01:14.858 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [34ms]
+2024-11-04 14:01:14.896 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2024-11-04 14:01:14.901 [info] > git rev-parse --show-toplevel [63ms]
+2024-11-04 14:01:14.908 [info] > git config --get commit.template [16ms]
+2024-11-04 14:01:14.909 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2024-11-04 14:01:14.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2024-11-04 14:01:14.911 [info] > git merge-base refs/heads/main refs/remotes/origin/main [33ms]
+2024-11-04 14:01:14.918 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-04 14:01:14.919 [info] > git config --local branch.main.vscode-merge-base [19ms]
+2024-11-04 14:01:14.931 [info] > git diff --name-status -z --diff-filter=ADMR 4d6a7b5311521b182d060240737432bc2bef42f4...refs/remotes/origin/main [17ms]
+2024-11-04 14:01:14.935 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-11-04 14:01:14.940 [info] [Model][openRepository] Opened repository: /home/olga/hexlet-js
+2024-11-04 14:01:14.941 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2024-11-04 14:01:14.941 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [18ms]
+2024-11-04 14:01:14.997 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/frontend-project-46/.git/refs/remotes/origin/main'
+2024-11-04 14:01:15.010 [info] > git status -z -uall [48ms]
+2024-11-04 14:01:15.010 [info] > git status -z -uall [39ms]
+2024-11-04 14:01:15.010 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2024-11-04 14:01:15.018 [info] > git rev-parse --show-toplevel [26ms]
+2024-11-04 14:01:15.027 [info] [Model][doInitialScan] Initial repository scan completed - repositories (7), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-04 14:01:15.028 [info] > git config --get commit.template [48ms]
+2024-11-04 14:01:15.028 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [52ms]
+2024-11-04 14:01:15.034 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [67ms]
+2024-11-04 14:01:15.040 [info] > git merge-base refs/heads/main refs/remotes/origin/main [95ms]
+2024-11-04 14:01:15.051 [info] > git status -z -uall [38ms]
+2024-11-04 14:01:15.051 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-11-04 14:01:15.056 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [39ms]
+2024-11-04 14:01:15.076 [info] > git config --local branch.main.vscode-merge-base [20ms]
+2024-11-04 14:01:15.085 [info] > git config --get commit.template [35ms]
+2024-11-04 14:01:15.085 [info] > git diff --name-status -z --diff-filter=ADMR 266c8897e36b47a81268cae87f85a28f7d19108d...refs/remotes/origin/main [42ms]
+2024-11-04 14:01:15.088 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2024-11-04 14:01:15.093 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-11-04 14:01:15.093 [info] > git merge-base refs/heads/main refs/remotes/origin/main [23ms]
+2024-11-04 14:01:15.114 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/hexlet-js/.git/refs/remotes/origin/main'
+2024-11-04 14:01:15.117 [info] > git merge-base refs/heads/main refs/remotes/origin/main [24ms]
+2024-11-04 14:01:15.123 [info] > git rev-parse refs/remotes/origin/main [9ms]
+2024-11-04 14:01:15.130 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-11-04 14:01:15.131 [info] > git diff --name-status -z --diff-filter=ADMR 266c8897e36b47a81268cae87f85a28f7d19108d...refs/remotes/origin/main [33ms]
+2024-11-04 14:01:15.136 [info] > git status -z -uall [9ms]
+2024-11-04 14:01:15.136 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-11-04 14:01:15.145 [info] > git diff --name-status -z --diff-filter=ADMR 5cd9030637160ceea4e800aac11068a3cc210de8...refs/remotes/origin/main [24ms]
+2024-11-04 14:01:15.150 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-11-04 14:01:15.159 [info] > git config --get commit.template [10ms]
+2024-11-04 14:01:15.171 [info] > git config --local branch.main.vscode-merge-base [17ms]
+2024-11-04 14:01:15.180 [info] > git status -z -uall [17ms]
+2024-11-04 14:01:15.180 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2024-11-04 14:01:15.185 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-11-04 14:01:15.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [12ms]
+2024-11-04 14:01:15.195 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/hexlet-js/.git/refs/remotes/origin/main'
+2024-11-04 14:01:15.196 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2024-11-04 14:01:15.202 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2024-11-04 14:01:15.210 [info] > git status -z -uall [4ms]
+2024-11-04 14:01:15.211 [info] > git diff --name-status -z --diff-filter=ADMR 2ec9b6fe510f2076127e2aedb2d374ff9f80fac2...refs/remotes/origin/main [11ms]
+2024-11-04 14:01:15.217 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-11-04 14:01:15.547 [info] > git check-ignore -v -z --stdin [43ms]
+2024-11-04 14:01:15.561 [info] > git check-ignore -v -z --stdin [54ms]
+2024-11-04 14:01:15.562 [info] > git check-ignore -v -z --stdin [51ms]
+2024-11-04 14:01:15.565 [info] > git check-ignore -v -z --stdin [45ms]
+2024-11-04 14:01:15.566 [info] > git check-ignore -v -z --stdin [43ms]
+2024-11-04 14:01:15.567 [info] > git check-ignore -v -z --stdin [39ms]
+2024-11-04 14:01:15.568 [info] > git check-ignore -v -z --stdin [36ms]
+2024-11-04 14:01:19.965 [info] > git config --get commit.template [6ms]
+2024-11-04 14:01:19.972 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-04 14:01:19.979 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-11-04 14:01:19.983 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-11-04 14:01:19.994 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-11-04 14:01:20.140 [info] > git status -z -uall [153ms]
+2024-11-04 14:01:27.129 [info] > git config --get commit.template [14ms]
+2024-11-04 14:01:27.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-11-04 14:01:27.146 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-11-04 14:01:27.148 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-11-04 14:01:27.160 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-04 14:01:27.290 [info] > git status -z -uall [137ms]
+2024-11-04 14:01:32.385 [info] > git config --get commit.template [8ms]
+2024-11-04 14:01:32.393 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-04 14:01:32.397 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-11-04 14:01:32.399 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-11-04 14:01:32.411 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-11-04 14:01:32.551 [info] > git status -z -uall [148ms]
+2024-11-04 14:01:37.605 [info] > git config --get commit.template [6ms]
+2024-11-04 14:01:37.608 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-11-04 14:01:37.614 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-11-04 14:01:37.616 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-11-04 14:01:37.628 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-11-04 14:01:37.770 [info] > git status -z -uall [151ms]
+2024-11-04 14:01:42.770 [info] > git clone https://github.com/olga-treushkova/frontend-project-46.git /home/olga/frontend-project-46-1 --progress [1148ms]
+2024-11-04 14:01:42.770 [info] Cloning into '/home/olga/frontend-project-46-1'...
+remote: Enumerating objects: 13, done.        
+remote: Counting objects:   7% (1/13)        remote: Counting objects:  15% (2/13)        remote: Counting objects:  23% (3/13)        remote: Counting objects:  30% (4/13)        remote: Counting objects:  38% (5/13)        remote: Counting objects:  46% (6/13)        remote: Counting objects:  53% (7/13)        remote: Counting objects:  61% (8/13)        remote: Counting objects:  69% (9/13)        remote: Counting objects:  76% (10/13)        remote: Counting objects:  84% (11/13)        remote: Counting objects:  92% (12/13)        remote: Counting objects: 100% (13/13)        remote: Counting objects: 100% (13/13), done.        
+remote: Compressing objects:  12% (1/8)        remote: Compressing objects:  25% (2/8)        remote: Compressing objects:  37% (3/8)        remote: Compressing objects:  50% (4/8)        remote: Compressing objects:  62% (5/8)        remote: Compressing objects:  75% (6/8)        remote: Compressing objects:  87% (7/8)        remote: Compressing objects: 100% (8/8)        remote: Compressing objects: 100% (8/8), done.        
+remote: Total 13 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)        
+Receiving objects:   7% (1/13)Receiving objects:  15% (2/13)Receiving objects:  23% (3/13)Receiving objects:  30% (4/13)Receiving objects:  38% (5/13)Receiving objects:  46% (6/13)Receiving objects:  53% (7/13)Receiving objects:  61% (8/13)Receiving objects:  69% (9/13)Receiving objects:  76% (10/13)Receiving objects:  84% (11/13)Receiving objects:  92% (12/13)Receiving objects: 100% (13/13)Receiving objects: 100% (13/13), done.
+2024-11-04 14:01:42.844 [info] > git config --get commit.template [11ms]
+2024-11-04 14:01:42.859 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-11-04 14:01:42.865 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-11-04 14:01:42.867 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-11-04 14:01:42.902 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2024-11-04 14:01:43.329 [info] > git status -z -uall [451ms]
+2024-11-04 14:01:51.931 [info] > git config --get commit.template [13ms]
+2024-11-04 14:01:51.948 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-04 14:01:51.960 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/olga/.git/refs/remotes/origin/main'
+2024-11-04 14:01:51.965 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-11-04 14:01:51.990 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]

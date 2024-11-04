@@ -1,0 +1,1048 @@
+2024-10-18 14:26:57.044 [info] Extension host with pid 95438 started
+2024-10-18 14:26:57.044 [error] Error: EEXIST: file already exists, open '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock'
+2024-10-18 14:26:57.177 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-10-18 14:26:57.530 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-18 14:26:57.533 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 14:26:57.534 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 14:26:57.551 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 14:26:57.563 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 14:26:57.617 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': The pid 885 appears to be gone.
+2024-10-18 14:26:57.618 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': Deleting a stale lock.
+2024-10-18 14:26:58.763 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-18 14:27:00.127 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': Lock acquired.
+2024-10-18 14:27:00.383 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-18 14:27:00.383 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-18 14:27:02.611 [info] Eager extensions activated
+2024-10-18 14:27:02.615 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 14:27:02.617 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 14:27:20.411 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1188
+2024-10-18 14:27:21.885 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1188
+2024-10-18 14:33:17.327 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1284
+2024-10-18 14:33:26.057 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:33:31.735 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:33:37.317 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:33:45.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:33:53.136 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:33:59.026 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:05.026 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:10.973 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:16.469 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:22.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:27.564 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:33.014 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:38.398 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:44.099 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:49.557 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:34:55.070 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:35:00.665 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:40:27.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:40:33.180 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:40:38.675 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:40:44.175 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:40:49.620 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:40:55.166 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:00.343 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:05.743 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:11.335 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:16.760 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:22.072 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:27.691 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:33.249 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:38.693 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:44.241 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:50.009 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:41:55.388 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:00.826 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:06.254 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:11.875 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:17.375 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:25.324 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:30.754 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:36.305 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:41.733 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:47.204 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:52.684 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 14:42:58.127 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 15:39:13.786 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 20:43:14.710 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-10-18 20:43:14.717 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-10-18 20:43:14.872 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-18 20:43:14.873 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-18 20:43:14.873 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-18 20:43:14.873 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-18 20:43:14.873 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-18 20:43:14.875 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-18 20:43:14.881 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/github/dist/extension.js:2:321578)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/github/dist/extension.js:2:322537
+	at gh.value (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:1061875)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-18 20:43:14.885 [info] Extension host with pid 95438 exiting with code 0
+2024-10-18 20:54:11.660 [info] Extension host with pid 125949 started
+2024-10-18 20:54:11.703 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-18 20:54:11.706 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 20:54:11.706 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 20:54:11.707 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 20:54:11.708 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 20:54:11.709 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+2024-10-18 20:54:11.716 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': Lock acquired.
+2024-10-18 20:54:12.018 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+2024-10-18 20:54:12.320 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-18 20:54:12.553 [info] Eager extensions activated
+2024-10-18 20:54:12.554 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 20:54:12.555 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 20:54:13.028 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-18 20:54:13.847 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 14:58:06.272 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-10-19 14:58:06.279 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-10-19 14:58:06.683 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-19 14:58:06.685 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-19 14:58:06.686 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-19 14:58:06.688 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-19 14:58:06.689 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-19 14:58:06.690 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-19 14:58:06.725 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/github/dist/extension.js:2:321578)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/github/dist/extension.js:2:322537
+	at gh.value (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:1061875)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at H4.a (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+	at H4.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7) setContext undefined
+2024-10-19 14:58:06.745 [info] Extension host with pid 125949 exiting with code 0
+2024-10-19 15:05:58.921 [info] Extension host with pid 151777 started
+2024-10-19 15:05:59.000 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': Lock acquired.
+2024-10-19 15:05:59.744 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-19 15:05:59.749 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-19 15:05:59.750 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-19 15:05:59.750 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-10-19 15:05:59.751 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-10-19 15:05:59.753 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+2024-10-19 15:05:59.782 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-10-19 15:06:00.469 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+2024-10-19 15:06:00.786 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-19 15:06:01.096 [info] Eager extensions activated
+2024-10-19 15:06:01.097 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-19 15:06:01.098 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-19 15:06:03.286 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 15:06:04.077 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 21:28:49.713 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 21:28:55.201 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 21:29:00.569 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 21:29:05.880 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 21:29:11.100 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 21:29:16.602 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 21:29:22.097 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-19 21:29:27.794 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-22 17:00:44.438 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-22 17:00:50.001 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-22 17:00:55.632 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-22 17:01:01.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1283
+2024-10-22 17:01:03.171 [info] Extension host terminating: received terminate message from renderer
+2024-10-22 17:01:03.179 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-10-22 17:01:04.018 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:13218)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at Im.A (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:12515)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:11916)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at m5.acceptChunk (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7880)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7166)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at _2.z (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21892)
+	at _2.acceptFrame (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21698)
+	at z2.n (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:20224)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:17454
+	at Socket.t (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:15393)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-22 17:01:04.019 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:13218)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at Im.A (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:12515)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:11916)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at m5.acceptChunk (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7880)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7166)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at _2.z (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21892)
+	at _2.acceptFrame (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21698)
+	at z2.n (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:20224)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:17454
+	at Socket.t (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:15393)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-22 17:01:04.019 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:13218)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at Im.A (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:12515)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:11916)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at m5.acceptChunk (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7880)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7166)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at _2.z (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21892)
+	at _2.acceptFrame (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21698)
+	at z2.n (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:20224)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:17454
+	at Socket.t (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:15393)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-22 17:01:04.020 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:13218)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at Im.A (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:12515)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:11916)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at m5.acceptChunk (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7880)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7166)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at _2.z (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21892)
+	at _2.acceptFrame (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21698)
+	at z2.n (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:20224)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:17454
+	at Socket.t (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:15393)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-22 17:01:04.021 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:13218)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at Im.A (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:12515)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:11916)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at m5.acceptChunk (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7880)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7166)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at _2.z (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21892)
+	at _2.acceptFrame (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21698)
+	at z2.n (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:20224)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:17454
+	at Socket.t (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:15393)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-22 17:01:04.021 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.O [as value] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:953034)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:13218)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at Im.A (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:12515)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:11916)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at m5.acceptChunk (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7880)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7166)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at _2.z (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21892)
+	at _2.acceptFrame (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21698)
+	at z2.n (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:20224)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:17454
+	at Socket.t (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:15393)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-22 17:01:04.031 [error] Canceled: Canceled
+	at new eA (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/github/dist/extension.js:2:321578)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/github/dist/extension.js:2:322537
+	at gh.value (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:1061875)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.C (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:802)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:1019)
+	at Object.p [as dispose] (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:973612)
+	at /home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979734
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:979720)
+	at D1.<anonymous> (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:19996)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at D1.<anonymous> (/home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/extensions/git/dist/main.js:2:955332)
+	at D1.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:108:20092)
+	at Si (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:701)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:14995
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:24:1011
+	at Object.dispose (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at hB.eb (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:11922)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:174:13218)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at Im.A (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:12515)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:11916)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at m5.acceptChunk (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7880)
+	at gh.value (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:7166)
+	at T.B (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at _2.z (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21892)
+	at _2.acceptFrame (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:21698)
+	at z2.n (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:20224)
+	at file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:17454
+	at Socket.t (file:///home/olga/.vscode-server/bin/d78a74bcdfad14d5d3b1b782f87255d802b57511/out/vs/workbench/api/node/extensionHostProcess.js:31:15393)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-22 17:01:04.039 [info] Extension host with pid 151777 exiting with code 0
