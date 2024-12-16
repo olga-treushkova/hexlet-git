@@ -1,0 +1,36 @@
+0 verbose cli /home/olga/.nvm/versions/node/v22.7.0/bin/node /home/olga/.nvm/versions/node/v22.7.0/bin/npm
+1 info using npm@10.9.0
+2 info using node@v22.7.0
+3 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/olga/.cache/typescript/5.7/.npmrc
+5 silly config load:file:/home/olga/.npmrc
+6 silly config load:file:/home/olga/.nvm/versions/node/v22.7.0/etc/npmrc
+7 verbose title npm install types-registry@latest
+8 verbose argv "install" "--ignore-scripts" "types-registry@latest"
+9 verbose logfile logs-max:10 dir:/home/olga/.npm/_logs/2024-12-16T10_27_27_564Z-
+10 verbose logfile /home/olga/.npm/_logs/2024-12-16T10_27_27_564Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:2081947648 maxSize:520486912 maxEntrySize:260243456
+14 silly packumentCache corgi:https://registry.npmjs.org/types-registry cache-miss
+15 http fetch GET https://registry.npmjs.org/types-registry attempt 1 failed with EAI_AGAIN
+16 http fetch GET https://registry.npmjs.org/types-registry attempt 2 failed with EAI_AGAIN
+17 http fetch GET 200 https://registry.npmjs.org/types-registry 91820ms (cache revalidated)
+18 silly packumentCache corgi:https://registry.npmjs.org/types-registry set size:587132 disposed:false
+19 silly idealTree buildDeps
+20 silly fetch manifest types-registry@0.1.699
+21 silly packumentCache full:https://registry.npmjs.org/types-registry cache-miss
+22 http fetch GET 200 https://registry.npmjs.org/types-registry 104ms (cache revalidated)
+23 silly packumentCache full:https://registry.npmjs.org/types-registry set size:1228161 disposed:false
+24 silly placeDep ROOT types-registry@0.1.699 OK for:  want: 0.1.699
+25 silly reify moves {}
+26 silly audit bulk request { 'types-registry': [ '0.1.699' ] }
+27 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 260ms
+28 silly audit report {}
+29 silly ADD node_modules/types-registry
+30 verbose cwd /home/olga/.cache/typescript/5.7
+31 verbose os Linux 5.15.167.4-microsoft-standard-WSL2
+32 verbose node v22.7.0
+33 verbose npm  v10.9.0
+34 verbose exit 0
+35 info ok

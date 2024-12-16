@@ -1,0 +1,19 @@
+2024-12-10 17:54:41.194 [info] 
+
+
+
+
+2024-12-10 17:54:41.224 [info] Extension host agent started.
+2024-12-10 17:54:41.709 [info] [127.0.0.1][0a4ff1a4][ManagementConnection] New connection established.
+2024-12-10 17:54:42.589 [info] [127.0.0.1][78a348c4][ExtensionHostConnection] New connection established.
+2024-12-10 17:54:45.272 [info] [127.0.0.1][78a348c4][ExtensionHostConnection] <31040> Launched Extension Host Process.
+2024-12-10 17:54:59.050 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/olga/.vscode-server/data/logs/20240915T161319/exthost1/vscode.github' failed: No such file or directory (EUNKNOWN) (path: /home/olga)
+2024-12-10 17:54:59.051 [error] [File Watcher (universal)] inotify_add_watch on '/home/olga/.vscode-server/data/logs/20240915T161319/exthost1/vscode.github' failed: No such file or directory
+2024-12-10 18:17:05.275 [warning] No ptyHost heartbeat after 6 seconds
+2024-12-10 21:00:38.382 [info] [127.0.0.1][78a348c4][ExtensionHostConnection] The client has reconnected.
+2024-12-10 21:00:39.665 [info] [127.0.0.1][0a4ff1a4][ManagementConnection] The client has reconnected.
+2024-12-10 21:18:23.574 [warning] No ptyHost heartbeat after 6 seconds
+2024-12-10 21:38:25.359 [info] [127.0.0.1][0a4ff1a4][ManagementConnection] The client has reconnected.
+2024-12-10 21:38:25.610 [info] [127.0.0.1][78a348c4][ExtensionHostConnection] The client has reconnected.
+2024-12-10 23:36:52.571 [info] [127.0.0.1][78a348c4][ExtensionHostConnection] The client has reconnected.
+2024-12-10 23:36:53.229 [info] [127.0.0.1][0a4ff1a4][ManagementConnection] The client has reconnected.

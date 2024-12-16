@@ -1,0 +1,13 @@
+2024-12-10 23:53:00.455 [info] 
+
+
+
+
+2024-12-10 23:53:00.504 [info] Extension host agent started.
+2024-12-10 23:53:00.819 [info] [127.0.0.1][f6ff8735][ManagementConnection] New connection established.
+2024-12-10 23:53:01.743 [info] [127.0.0.1][17cd2c66][ExtensionHostConnection] New connection established.
+2024-12-10 23:53:03.694 [info] [127.0.0.1][17cd2c66][ExtensionHostConnection] <1131> Launched Extension Host Process.
+2024-12-10 23:53:04.183 [info] [127.0.0.1][17cd2c66][ExtensionHostConnection] <1131><stderr> Error reading NLS messages file /home/olga/.vscode-server/data/clp/58ac899bb3d0805277404352838d1d0a.ru/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/olga/.vscode-server/data/clp/58ac899bb3d0805277404352838d1d0a.ru/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-12-11 00:00:14.741 [info] [127.0.0.1][f6ff8735][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-11 00:00:15.170 [info] [127.0.0.1][17cd2c66][ExtensionHostConnection] <1131> Extension Host Process exited with code: 0, signal: null.

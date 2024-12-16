@@ -1,0 +1,25 @@
+2024-12-10 16:38:12.572 [info] 
+
+
+
+
+2024-12-10 16:38:12.572 [info] Extension host agent started.
+2024-12-10 16:38:12.839 [info] [127.0.0.1][27ab9c20][ManagementConnection] New connection established.
+2024-12-10 16:38:14.898 [info] [127.0.0.1][54d0a9bb][ExtensionHostConnection] New connection established.
+2024-12-10 16:38:21.767 [info] [127.0.0.1][54d0a9bb][ExtensionHostConnection] <1400> Launched Extension Host Process.
+2024-12-10 16:38:21.986 [info] [127.0.0.1][54d0a9bb][ExtensionHostConnection] <1400><stderr> Error reading NLS messages file /home/olga/.vscode-server/data/clp/58ac899bb3d0805277404352838d1d0a.ru/65edc4939843c90c34d61f4ce11704f09d3e5cb6/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/olga/.vscode-server/data/clp/58ac899bb3d0805277404352838d1d0a.ru/65edc4939843c90c34d61f4ce11704f09d3e5cb6/nls.messages.json'
+
+2024-12-10 16:41:00.356 [info] [127.0.0.1][27ab9c20][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-10 16:41:01.421 [info] [127.0.0.1][54d0a9bb][ExtensionHostConnection] <1400> Extension Host Process exited with code: 0, signal: null.
+2024-12-10 16:41:03.856 [info] [127.0.0.1][183606bc][ManagementConnection] New connection established.
+2024-12-10 16:41:04.850 [info] [127.0.0.1][5998537e][ExtensionHostConnection] New connection established.
+2024-12-10 16:41:04.963 [info] [127.0.0.1][5998537e][ExtensionHostConnection] <3071> Launched Extension Host Process.
+2024-12-10 16:41:05.203 [info] [127.0.0.1][5998537e][ExtensionHostConnection] <3071><stderr> Error reading NLS messages file /home/olga/.vscode-server/data/clp/58ac899bb3d0805277404352838d1d0a.ru/65edc4939843c90c34d61f4ce11704f09d3e5cb6/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/olga/.vscode-server/data/clp/58ac899bb3d0805277404352838d1d0a.ru/65edc4939843c90c34d61f4ce11704f09d3e5cb6/nls.messages.json'
+
+2024-12-10 17:25:39.594 [info] [127.0.0.1][5998537e][ExtensionHostConnection] The client has reconnected.
+2024-12-10 17:25:39.862 [info] [127.0.0.1][183606bc][ManagementConnection] The client has reconnected.
+2024-12-10 17:27:57.697 [warning] No ptyHost heartbeat after 6 seconds
+2024-12-10 17:48:42.482 [info] [127.0.0.1][183606bc][ManagementConnection] The client has reconnected.
+2024-12-10 17:48:42.846 [info] [127.0.0.1][5998537e][ExtensionHostConnection] The client has reconnected.
+2024-12-10 17:53:05.384 [info] [127.0.0.1][183606bc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-10 17:53:05.910 [info] [127.0.0.1][5998537e][ExtensionHostConnection] <3071> Extension Host Process exited with code: 0, signal: null.

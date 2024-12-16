@@ -1,0 +1,10 @@
+2024-12-16 13:25:47.981 [info] 
+
+
+
+
+2024-12-16 13:25:48.029 [info] Extension host agent started.
+2024-12-16 13:25:48.455 [info] [127.0.0.1][7e43d0dd][ManagementConnection] New connection established.
+2024-12-16 13:25:49.067 [info] [127.0.0.1][872a5abe][ExtensionHostConnection] New connection established.
+2024-12-16 13:25:49.262 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ru /home/olga/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.95.2024103009
+2024-12-16 13:25:54.102 [info] [127.0.0.1][872a5abe][ExtensionHostConnection] <169511> Launched Extension Host Process.

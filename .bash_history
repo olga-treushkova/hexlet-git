@@ -1,285 +1,3 @@
-npm fund
-node --version
-node -v
-sudo apt remove node.js
-node -v
-npm install readline-sync
-ls cli.js
-pwd
-ls cli.js
-nano cli.js
-cd frontend-project-44
-ls cli.js
-ls -a
-cd src
-ls -a
-ls cli.js
-nano cli.js
-nano brain-games.js
-cd bin
-cd
-cd bin
-ls -a
-ls brain-games.js
-cd frontend-project-44
-cd
-cd frontend-project-44
-ls -a
-ls brain-games.js
-ls
-nano brain-games.js
-chmod +x bin/brain-games.js
-bin/brain-games.js
-nano cli.js
-cd src
-nano cli.js
-brain-games.js
-cd
-pwd
-bin/brain-games.js
-cd frontend-project-44
-brain-games.js
-bin/brain-games.js
-nano brain-games.js
-brain-games.js
-bin/brain-games.js
-cd
-bin/brain-games.js
-cd frontend-project
-cd frontend-project-44
-nano brain-games.js
-bin/brain-games.js
-cd bin
-ls -a
-ls brain-games.js
-ls -a
-ls
-ls -la
-nano brain-games.js
-bin/brain-games.js
-brain-games.js
-brain-games
-cd
-npm list readline-sync
-cd /bin/brain-games.js
-cd frontend-project-44
-ls -a
-nano brain-games.js
-bin/brain-games.js
-chmod +x bin/brain-games.js
-bin/brain-games.js
-nano brain-games.js
-cd
-cd bin
-ls -a
-ls brain-games.js
-cd 
-ls brain-games.js
-nano brain-games.js
-bin/brain-games.js
-cd frontend-project-44
-bin/brain-games.js
-cd
-node -v
-cd src
-pwd
-cd frontend-project-44
-cd src
-nano cli.js
-rm -rf node modules
-cd
-chmod +x bin/brain-games.js
-cd
-pwd
-cd frontend-project-44
-chmod +x bin/brain-games.js
-rm -rf node_modules
-npm install
-npm install -g
-bin/brain-games.js
-nano brain-games.js
-bin/brain-games.js
-cd
-nano package.json
-cd frontend-project-44
-ls -a
-ls Makefile
-ls -a
-nano Makefile
-nano .gitignore
-touch .gitignore
-ls -a
-nano .gitignore
-make install
-make brain-games
-nano .gitignore
-git rm -r --cached node_modules
-git commit -m 'Add node_modules to .gitignore'
-nano Makefile
-nano brain-games.js
-nano package.json
-chmod +x bin/brain-games.js
-npm link
-git pull
-git push
-bin/brain-games.js
-node bin/brain-games.js
-bin/brain-games.js
-node -v
-npm install
-nano package.json
-npm update
-npm cache clean -f
-make brain-games
-cd
-make brain-games
-bin/brain-games.js
-
-bin/brain-games.js
-npm update
-npm test
-cd
-cd frontend-project-44
-git status
-git fetch
-git status
-git add -A
-git commit -m 'zabyla' 
-git push
-brain-games
-git remote -v
-git push
-git pull
-git status
-git pull 
-git push
-brain-games.js
-brain-games
-npm i
-git pull
-git push
-git clone git@github.com:olga-treushkova/frontend-project-44.git
-git push
-git add -A
-git rm --cached frontend-project-44
-git push
-git status
-git push
-npm i
-cd
-rm frontend-project-44
-rm frontend-project-rf
-cd frontend-project
-rm frontend-project-44 -rf
-pwd
-cd frontend-project-44
-cd bin
-ls
-ls a
-pwd
-cd
-pwd
-ls
-ls -a
-cd bin 
-ls -a
-cd
-cd node_modules
-ls -a
-cd
-nano brain-games.js
-rm brain-games.js
-pwd
-ls -a
-nano Makefile
-rm Makefile
-ls -a
-nano rEADME.MD
-nano README.md
-rm README.md -rf
-ls -a
-node -v
-git clone https://github.com/olga-treushkova/frontend-project-44.git
-pwd
-ls -a
-cd frontend-project-44
-ls -a
-npm init
-ls -a
-mkdir bin
-ls -a
-cd bin
-touch brain-games.js
-ls -a
-nano brain-games.js
-brain-games.js
-cd
-bin/brain-games.js
-node bin/brain-games.js
-git status
-git add -A
-git rm --cached .asdf
-git status
-git submodule
-git submodule status
-git add frontend-project-44
-git status
-node bin/brain-games.js
-/bin/brain-games
-/bin/brain-games.js
-brain-games.js
-node bin
-pwd
-ls a-
-ls -a
-cd frontend-poject-44
-cd frontend-project-44
-ls -a
-rm frontend-project-44 -rf
-cd
-ls -a
-rm frontend-project-44 -rf
-ls -a
-git clone git@github.com:olga-treushkova/frontend-project-44.git
-ls -a
-cd frontend-project-44
-ls [-a
-ls -a
-npm init
-mkdir bin
-ls -a
-cd bin
-touch brain-games.js
-ls -a
-nano brain-games.js
-chmod +x bin/brain-games.js
-cd
-chmod +x bin/brain-games.js
-cd frontend-project-44
-chmod +x bin/brain-games.js
-./bin/brain-games.js
-nano brain-games.js
-cd bin
-nano brain-games.js
-cd
-./bin/brain-games.js
-cd frontend-project-44
-./bin/brain-games.js
-git status
-git add -A
-git commit 'bin'
-git status
-cd bin
-ls -a
-nano brain-games.js
-chmod +x bin/brain-games.js
-cd .
-cd ..
-chmod +x bin/brain-games.js
-./bin/brain-games.js
-cd ...
-cd .
-cd ..
 ./bin/brain-games.js
 ../bin/brain-games.js
 cd ..
@@ -1998,3 +1716,285 @@ nano gendiff.js
 git status
 git add -A
 npm install commander
+chmod +x gendiff.js
+git status
+git add -A
+git status
+git commit -m 'new file gendiff.js'
+git status
+git commit -a
+git status
+pwd
+cd 
+cd .
+pwd
+cd ..
+cd ...
+cd .
+ls
+pwd
+ls
+ls -al
+cd .
+cd ..
+pwd
+cd ...
+cd
+pwd
+cd frontend-project-46
+ls 
+chmod +x gendiff.js
+ls
+git status
+git add -A
+git status
+git commit -m 'new files'
+git status
+npm install commander
+code .
+npm install commander
+node -v
+npm install commander
+nvm install 20
+npm install commander
+npm audit fix
+npm install commander
+node -v
+nvm install 20
+node -v
+npm install commander
+npm audit fix
+nvm use 20
+node -v
+which node
+command -v nvm
+node -v
+which node
+nvm use 20
+node -v
+nvm uninstall 20
+node -v
+nvm install 20
+node -v
+node use 20
+node -v
+node use 20
+node -v
+nvm uninstall 20
+nvm install 20
+node -v
+code .
+co.
+code.
+code .
+node -v
+nvm use 20
+node -v
+node use 20
+nvm install 20
+node -v
+olga@DESKTOP-JL8VIN9:~$ node use 20
+node:internal/modules/cjs/loader:959
+Error: Cannot find module '/home/olga/use'
+}
+Node.js v18.7.0
+olga@DESKTOP-JL8VIN9:~$ nvm install 20
+v20.18.1 is already installed.
+Now using node v20.18.1 (npm v8.15.0)
+olga@DESKTOP-JL8VIN9:~$ node -v
+v18.7.0
+olga@DESKTOP-JL8VIN9:~$ 
+nvm use 20
+node -v
+source ~/.bashrc
+echo $PATH
+node -v
+nvm use 20
+npm install commander
+chmod +x gendiff.js
+./gendiff.js -h
+node -v
+nvm use 20
+node -v
+nvm use 20
+node -v
+gendiff -f
+node -v
+gendiff -h
+npm -v
+node -v
+gendiff -h
+./gendiff.js -h
+chmod +x gendiff.js
+./gendiff.js -h
+chmod -h
+chmod --h
+chmod +x gendiff.js
+./gendiff.js -h
+ls -l gendiff.js
+./gendiff.js -h
+chmod --help
+./gendiff.js
+cd frontend-project-46
+./gendiff.js
+./gendiff.js -h
+node gendiff.js -h
+./gendiff.js -h
+npm link
+./gendiff.js -h
+gendiff -h
+ls
+cd gendiff.js
+ls
+Command 'gendiff' not found, but can be installed with:
+sudo apt install rpm
+ls
+gendiff -h
+chmod +x gendiff.js
+gendiff -h
+ls
+./gendiff -h
+./gendiff.js -h
+chmod +x gendiff.js
+ls -l gendiff.js
+gendiff.ja -h
+gendiff.js -h
+node gendiff.js -h
+chmod +x gendiff.js
+ls
+ls bin
+ls gendiff.js
+ls 
+ls bin
+ls gendiff.js
+ls bin
+chmod +x gendiff.js
+ls ./gendiff.js
+ls 
+ls bin
+ls bin/gendiff.js
+chmod +x gendiff.js
+npm link
+chmod +x gendiff.js
+
+./gendiff.js -h
+gendiff.js -h
+npm link
+gendiff.js -h
+npx gendiff -h
+npm link
+gendiff.js -h
+./bin/gendiff.js -h
+./bin
+ls
+ls bin
+./bin/gendiff.js -h
+ls bin
+gendiff.js -h
+npm link
+gendiff.js -h
+npx ./gendiff.js -h
+npm link
+gendiff.js -h
+bin/gendiff.js -h
+npx gendiff -h
+chmod +x gendiff.js
+
+cd bin
+gendiff.js -h
+npm list commander
+gendiff.js -h
+npm link
+gendiff.js -h
+npm link
+gendiff.js -h
+git status
+git add .
+git status
+git add .
+git status
+git add Makefile node-modules package-lock.json src
+git add .
+git status
+git add Makefile
+git status
+git add .
+git status
+cd
+ls
+cd frontend-project-46
+git status
+git rm gendiff.js
+git rm 'gendiff.js'
+git add package.json
+git status
+git add .
+
+git commit -m "new files'
+
+
+"
+git status
+gendiff.js -h
+cd bin
+gendiff.js -h
+ls
+cd ..
+git status
+npm link
+git status
+gendiff.js -h
+git status
+git add .
+git commit -m 'changes in package.json'
+git status
+npm link
+git status
+git add .
+git commit -m 'changes in package.json'
+npm link
+gendiff -h
+node /bin/gendiff.js
+node ./bin/gendiff.js
+node ./bin/gendiff.js help
+gendiff -h
+npm run test
+cd ../frontend-project-44
+brain-calc
+node /bin/brain-games.js
+node bin/brain-games.js
+./bin/brain-games.js
+cd ../frontend-project-46
+node bin/gendiff.js -h
+gendiff -h
+node bin/gendiff.js -h
+gendiff.js -h
+npm link
+gendiff.js -h
+node bin/gendiff.js -h
+npm link
+gendiff.js -h
+git status
+git add .
+git status
+git commit -m 'new files'
+git status
+gendiff.js -h
+
+gendiff
+npm link
+gendiff.js -h
+npm link
+gendiff.js -h
+gendiff.js 
+gendiff
+gendiff -h
+npm link
+
+git status
+git add .
+git commit -m 'changes'
+git status
+npm link
+gendiff -h
+git push 

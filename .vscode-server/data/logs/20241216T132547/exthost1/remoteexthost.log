@@ -1,0 +1,9 @@
+2024-12-16 13:25:56.486 [info] Extension host with pid 169511 started
+2024-12-16 13:25:56.664 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-16 13:25:56.667 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-12-16 13:25:56.681 [info] Lock '/home/olga/.vscode-server/data/User/workspaceStorage/0bb3009dac514289d12237e5ad0f5441/vscode.lock': Lock acquired.
+2024-12-16 13:25:59.333 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-16 13:25:59.364 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-12-16 13:26:00.306 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-16 13:26:00.320 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-16 13:26:00.432 [info] ExtensionService#_doActivateExtension github.vscode-github-actions, startup: true, activationEvent: 'workspaceContains:**/.github/workflows/**'
